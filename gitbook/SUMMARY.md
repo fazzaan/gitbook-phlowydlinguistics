@@ -12,6 +12,11 @@
 * [Rolling out Support](support/rolling-out-support.md)
 * [Fonts that support NewEng](support/fonts-that-support-neweng.md)
 
+## Writings in NewEng
+
+* [Ʃīn Lôv (Shine Love)](writings-in-neweng/in-lov-shine-love.md)
+* [Page](writings-in-neweng/page.md)
+
 ***
 
 * [Welcome - first edit](<README (1).md>)
