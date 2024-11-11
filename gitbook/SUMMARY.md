@@ -5,7 +5,7 @@
 * [The Alphabet of NewEng](README.md)
 * [The Vision for NewEng](basics-of-neweng/the-vision-for-neweng.md)
 * [Diacritics system](basics-of-neweng/diacritics-system.md)
-* [Translation logic](basics-of-neweng/translation-logic.md)
+* [Spelling conversion logic](basics-of-neweng/spelling-conversion-logic.md)
 
 ## Support
 
@@ -16,6 +16,11 @@
 
 * [Ʃīn Lôv (Shine Love)](writings-in-neweng/in-lov-shine-love.md)
 * [Sethos - Genshin Impact Fandom Wiki Page](writings-in-neweng/sethos-genshin-impact-fandom-wiki-page.md)
+
+## Other eBooks
+
+* [English Spelling](https://phlowyd-linguistics.gitbook.io/english-spelling)
+* [Pronunciation Mastery](https://phlowyd-linguistics.gitbook.io/pronunciation-mastery)
 
 ***
 
