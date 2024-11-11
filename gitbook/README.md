@@ -15,12 +15,3 @@ We will present the alphabet in various orderings, including:
 * Tabulated phonemically
 
 But first, just the new letters.
-
-
-
-## Phonetic values of the Alphabet
-
-<table data-full-width="true"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
-
-
-
