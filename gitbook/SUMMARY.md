@@ -15,7 +15,7 @@
 ## Writings in NewEng
 
 * [Ʃīn Lôv (Shine Love)](writings-in-neweng/in-lov-shine-love.md)
-* [Page](writings-in-neweng/page.md)
+* [Sethos - Genshin Impact Fandom Wiki Page](writings-in-neweng/sethos-genshin-impact-fandom-wiki-page.md)
 
 ***
 
