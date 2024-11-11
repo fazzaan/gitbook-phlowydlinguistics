@@ -22,12 +22,9 @@
 * [English Spelling](https://phlowyd-linguistics.gitbook.io/english-spelling)
 * [Pronunciation Mastery](https://phlowyd-linguistics.gitbook.io/pronunciation-mastery)
 
-***
-
-* [Welcome - first edit](<README (1).md>)
-
 ## Getting Started
 
+* [Welcome - first edit](getting-started/readme.md)
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
