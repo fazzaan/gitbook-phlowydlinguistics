@@ -2,8 +2,11 @@
 
 ## Basics of NewEng
 
-* [The Alphabet of NewEng](README.md)
-* [The Vision for NewEng](basics-of-neweng/the-vision-for-neweng.md)
+* [Alphabet of NewEng](README.md)
+  * [New Letters](basics-of-neweng/alphabet-of-neweng/new-letters.md)
+  * [Full Alphabet](basics-of-neweng/alphabet-of-neweng/full-alphabet.md)
+  * [Phonetic Table of Letters](basics-of-neweng/alphabet-of-neweng/phonetic-table-of-letters.md)
+* [Vision for NewEng](basics-of-neweng/vision-for-neweng.md)
 * [Diacritics system](basics-of-neweng/diacritics-system.md)
 * [Spelling conversion logic](basics-of-neweng/spelling-conversion-logic.md)
 
