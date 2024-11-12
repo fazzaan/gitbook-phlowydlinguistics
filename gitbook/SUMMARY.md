@@ -14,6 +14,7 @@
 
 * [Rolling out Support](support/rolling-out-support.md)
 * [Fonts that support NewEng](support/fonts-that-support-neweng.md)
+* [Word List](support/word-list.md)
 
 ## Writings in NewEng
 
@@ -24,6 +25,10 @@
 
 * [English Spelling](https://phlowyd-linguistics.gitbook.io/english-spelling)
 * [Pronunciation Mastery](https://phlowyd-linguistics.gitbook.io/pronunciation-mastery)
+
+## External connection
+
+* [Contact me](https://linktr.ee/fazzaan)
 
 ## Getting Started
 
