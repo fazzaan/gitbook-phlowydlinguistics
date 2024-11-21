@@ -7,6 +7,8 @@
   * [Full Alphabet](basics-of-neweng/alphabet-of-neweng/full-alphabet.md)
   * [Phonetic Table of Letters](basics-of-neweng/alphabet-of-neweng/phonetic-table-of-letters.md)
 * [Vision for NewEng](basics-of-neweng/vision-for-neweng.md)
+* [Layers of spelling transition](basics-of-neweng/layers-of-spelling-transition/README.md)
+  * [2. Letter conversion](basics-of-neweng/layers-of-spelling-transition/2.-letter-conversion.md)
 * [Diacritics system](basics-of-neweng/diacritics-system.md)
 * [Spelling conversion logic](basics-of-neweng/spelling-conversion-logic.md)
 
