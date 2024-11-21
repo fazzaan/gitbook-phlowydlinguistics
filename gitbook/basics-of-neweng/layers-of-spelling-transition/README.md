@@ -48,11 +48,11 @@ Layer 5 introduces diacritics for vowels. If a vowel has a diacritic, it is assu
 
 In the letter conversion transition layer, all standard digraphs are replaced with monographs, primarily new letters.&#x20;
 
-**Limitations**
+_**Limitations**_
 
 To ease transition within the current generation of people and technology, all new letters must exist within Unicode and have an upper and a lower case glyph available. Preferably the cases are linked in their Unicode definitions, but sometimes that is not possible (Ʞ and ʞ are appear to not be connected correctly in the Unicode definition, and most apps also have not made the connection).
 
-**Letters**
+_**Letters**_
 
 Current English digraphs are:&#x20;
 
@@ -62,9 +62,9 @@ Other: ck
 
 Vowels: ae a\_e ai au aw ay / ea ee e\_e ei ew ey / ie i\_e / oa oe o\_e oi oo ou ow oy / ue u\_e ui uy
 
-Consonant digraphs can be replaced easily; vowel digraphs are dramatically messier.
+_Qu is not a digraph. The q represents a /k/ (a pharyngeal allophone) before a /w/, a non-syllabic allophone of u._&#x20;
 
-ƕ ʃ ч ð þ ȝ ŋ ȣ ꝏ ʞ φ æ œ&#x20;
+Consonant digraphs can be replaced easily; vowel digraphs are dramatically messier.
 
 * ch → ч   —   /ʧ/ in English and /ʃ/ in French words
 * ch → ʞ   —   /k/ in Greek words and /ʃ/ in Greek words via French
@@ -75,7 +75,7 @@ Consonant digraphs can be replaced easily; vowel digraphs are dramatically messi
 * th → ð   —   /ð/ in English and Greek words
 * wh → ƕ —   /ʰw\~ʍ/ in English words (probably P/Q Celt division)
 
-The only vowels being replaced are the four true digraphs:
+The only vowels being replaced at this stage are the four true digraphs:
 
 * ae → æ   —   /e/ in Latin & Greek words, maybe also Old English
 * oe → œ   —   /y/ in Latin & Greek words
