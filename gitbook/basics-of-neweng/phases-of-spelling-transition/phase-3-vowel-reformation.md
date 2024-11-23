@@ -1,5 +1,7 @@
 # Phase 3: Vowel Reformation
 
+Step 5: <mark style="color:green;">Rebulid the vowel system</mark>.
+
 This is perhaps the most complex part, because the English vowel system is barely even a system.
 
 Rules we can state about English vowels:
