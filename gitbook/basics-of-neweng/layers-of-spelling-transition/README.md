@@ -54,7 +54,7 @@ To ease transition within the current generation of people and technology, all n
 
 _**Letters**_
 
-Current English digraphs are:&#x20;
+The current English digraphs are:&#x20;
 
 H-series: ch gh ph sh th th wh
 

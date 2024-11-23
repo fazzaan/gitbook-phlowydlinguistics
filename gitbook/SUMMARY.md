@@ -16,6 +16,7 @@
 
 * [Rolling out Support](support/rolling-out-support.md)
 * [Fonts that support NewEng](support/fonts-that-support-neweng.md)
+* [Keyboard layouts](support/keyboard-layouts.md)
 * [Word List](support/word-list.md)
 
 ## Writings in NewEng
@@ -31,6 +32,7 @@
 ## External connection
 
 * [Contact me](https://linktr.ee/fazzaan)
+* [Email me](mailto:fuzzle6@gmail.com)
 
 ## Getting Started
 
