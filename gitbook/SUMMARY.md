@@ -7,17 +7,19 @@
   * [Full Alphabet](basics-of-neweng/alphabet-of-neweng/full-alphabet.md)
   * [Phonetic Table of Letters](basics-of-neweng/alphabet-of-neweng/phonetic-table-of-letters.md)
 * [Vision for NewEng](basics-of-neweng/vision-for-neweng.md)
-* [Layers of spelling transition](basics-of-neweng/layers-of-spelling-transition/README.md)
-  * [2. Letter conversion](basics-of-neweng/layers-of-spelling-transition/2.-letter-conversion.md)
+* [Phases of spelling transition](basics-of-neweng/phases-of-spelling-transition/README.md)
+  * [Phase 1: Letters & Stress](basics-of-neweng/phases-of-spelling-transition/phase-1-letters-and-stress.md)
+  * [Phase 2: Phonetiçīzā́tion](basics-of-neweng/phases-of-spelling-transition/phase-2-phoneticization.md)
+  * [Phase 3: Vowel Reformation](basics-of-neweng/phases-of-spelling-transition/phase-3-vowel-reformation.md)
 * [Diacritics system](basics-of-neweng/diacritics-system.md)
 * [Spelling conversion logic](basics-of-neweng/spelling-conversion-logic.md)
 
-## Support
+## Alphabet Support
 
-* [Rolling out Support](support/rolling-out-support.md)
-* [Fonts that support NewEng](support/fonts-that-support-neweng.md)
-* [Keyboard layouts](support/keyboard-layouts.md)
-* [Word List](support/word-list.md)
+* [Rolling out Support](alphabet-support/rolling-out-support.md)
+* [Fonts that support NewEng](alphabet-support/fonts-that-support-neweng.md)
+* [Keyboard layouts](alphabet-support/keyboard-layouts.md)
+* [Word List](alphabet-support/word-list.md)
 
 ## Writings in NewEng
 
@@ -28,6 +30,11 @@
 
 * [English Spelling](https://phlowyd-linguistics.gitbook.io/english-spelling)
 * [Pronunciation Mastery](https://phlowyd-linguistics.gitbook.io/pronunciation-mastery)
+
+## About
+
+* [Glossary](about/glossary.md)
+* [FAQs](about/faqs.md)
 
 ## External connection
 

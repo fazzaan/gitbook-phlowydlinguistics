@@ -1,11 +1,17 @@
-# Layers of spelling transition
+# Phases of spelling transition
 
-Each of these transitionary layers may happen separately or in combination. Some layers would help ease transition over a few years or maybe even a couple of generations; other layers would be better to occur simultaneously.
+Changing the whole spelling system [in one go](#user-content-fn-1)[^1] would be too dramatic, because English is used globally by more than 1.5 billion people, and spoken as a native or primary language by around 400 million. The amount of materials written in English is mind-boggling, from books to signage, menus to research papers, documentation to academic journals, and the swathe of human knowledge.
 
-1. Mark stress.
+To solve this, we can divide the spelling system reformation into multiple steps of gradual transition.
+
+Each of these transitionary steps may happen separately or in combination. Some steps would help ease transition over a few years (or even a couple of generations); other steps would better [take place](#user-content-fn-2)[^2] simultaneously.
+
+### The Steps
+
+1. <mark style="color:blue;">Mark stress</mark>.
    1. This should have been done centuries ago.
    2. **changes → chánges**
-2. Letter conversion.
+2. <mark style="color:blue;">Letter conversion</mark>.
    1. Changing digraphs for new monographs (consonants and vowels).
    2. Retaining spelling system (Magic E, duplicated letters, suffixes etc).
    3. Update consonant copes and deficiencies (finger → fiŋger).
@@ -28,11 +34,11 @@ Each of these transitionary layers may happen separately or in combination. Some
 
 ### Phase 1
 
-Phase 1 combines Layers 1 & 2: Mark stress, and Letter conversion.&#x20;
+Phase 1 combines Steps 1 & 2: Mark stress, and Letter conversion.&#x20;
 
 Phase 1 transition should be easily readable by anyone who spends a few hours familiarising themselves with the substitutions. The new letters are easily writable by just paying attention to the pronunciation of the current digraphs and mentally double-checking for the pronunciation patterns of any obviously-related words.
 
-#### Layer 1: Mark stress
+#### Step 1: <mark style="color:blue;">Mark stress</mark>
 
 Marking stress is simple and easy, as this is a feature in a lot of languages: á.
 
@@ -44,7 +50,7 @@ Stress only needs to be marked on words with multiple syllables.&#x20;
 
 Layer 5 introduces diacritics for vowels. If a vowel has a diacritic, it is assumed to take stress. If that vowel is the stressed syllable, no stress diacritic is required. If the stressed syllable is elsewhere, the correct vowel requires a stress diacritic.
 
-#### Layer 2: Letter conversion
+#### Step 2: <mark style="color:blue;">Letter conversion</mark>
 
 In the letter conversion transition layer, all standard digraphs are replaced with monographs, primarily new letters.&#x20;
 
@@ -81,3 +87,7 @@ The only vowels being replaced at this stage are the four true digraphs:
 * oe → œ   —   /y/ in Latin & Greek words
 * oo → ꝏ  —   /uw/ and /ɵ\~ʊ/ in English words
 * ou → ȣ    —   /uw/ and /ɵ\~ʊ/ in English etc words
+
+[^1]: at once
+
+[^2]: occur
