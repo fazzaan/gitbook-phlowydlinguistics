@@ -28,8 +28,8 @@
 
 ## Other eBooks
 
-* [English Spelling](https://phlowyd-linguistics.gitbook.io/english-spelling)
-* [Pronunciation Mastery](https://phlowyd-linguistics.gitbook.io/pronunciation-mastery)
+* [English Spelling (GitBook)](https://phlowyd-linguistics.gitbook.io/english-spelling)
+* [Pronunciation Mastery (GitBook)](https://phlowyd-linguistics.gitbook.io/pronunciation-mastery)
 
 ## About
 
