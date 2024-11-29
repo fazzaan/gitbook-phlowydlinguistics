@@ -1,5 +1,35 @@
 # Spelling conversion logic
 
+## Primary Goals
+
+1. Simplify spellings.
+   1. Each letter has only one phonemic value.&#x20;
+      1. Modifications are allowed using diacritics.
+      2. Multiple letters are allowed to produce the same phonemic values.
+   2. No double letters, unless necessary.
+   3. No vowel combinations split apart (like ⟨a⟩ in ⟨face⟩).
+   4. Phonetic respelling for standard pronunciation mutations.
+      1. Voiced ⟨s⟩ suffix after voiced codas, compare ducks /dʌks/ & dogs /dɔɡz/.
+      2. g as j /ʤ/ in ⟨ge/gi/gy⟩
+   5. Phonetic respelling for unreasonable or unresolvable vowel variations.
+      1. ⟨ou⟩ is remarkably common and also remarkably nonsensical.&#x20;
+2. Retain & maximize visual & aural distinctions.
+   1. Preserve etymological spelling patterns.
+   2. Retain visual distinctions between homophones.
+      1. Not all homophones are homophones in every accent. Erasing distinctions is deleterious and culturally insensitive. Grammatic homophones tend to exist in most accents, whereas semantic homophones tend to have arisen as a result of [phonological mergers](https://en.wikipedia.org/wiki/Category:Splits_and_mergers_in_English_phonology).
+         1. Semantic: bow/bough
+         2. Grammatic: passed/past
+   3. Increase visual distinction between homographs and homonyms.
+      1. Bow — /baw/ vs /bəw/
+      2. Row — /ɹaw/ vs /ɹəw/
+      3.
+
+
+
+## Simplification
+
+The primary goals
+
 ### Double letter simplifications
 
 * ck → k -- the k is to prevent e/i/y from changing the c into a /s/. Keep the k.
@@ -41,8 +71,8 @@ We replace all digraphs with single letters. This is the reason for adding new l
 
 ## Suffixes
 
-* \-ness -- retain double s, -ness marks a noun -- different from -n+es
-* \-less -- retain double s, -less marks some adjectives -- different from -l+es
+* -ness -- retain double s, -ness marks a noun -- different from -n+es
+* -less -- retain double s, -less marks some adjectives -- different from -l+es
 
 
 
@@ -95,14 +125,14 @@ The Vowel+R rules are retained in NewEng.
 
 #### Vowel+R
 
-* \-er → -r -- if the E is unpronounced or is unstressed /ɜː/\~/ə/&#x20;
+* -er → -r -- if the E is unpronounced or is unstressed /ɜː/\~/ə/&#x20;
 
 #### Vowel+R+E
 
-* \-are → ăr for /ɛː(ɹ)/ in "mare", "square", "spare", "bare"&#x20;
-* \-ere → ĕr for /ɛː(ɹ)/ in "there", "where"
-* \-ire → īr for /ɑjə(ɹ)/ in "fire," "dire", "mire", "wire"
-* \-ore → or for /ɔ:(ɹ)/ in "more", "core", "lore"
+* -are → ăr for /ɛː(ɹ)/ in "mare", "square", "spare", "bare"&#x20;
+* -ere → ĕr for /ɛː(ɹ)/ in "there", "where"
+* -ire → īr for /ɑjə(ɹ)/ in "fire," "dire", "mire", "wire"
+* -ore → or for /ɔ:(ɹ)/ in "more", "core", "lore"
 
 
 
