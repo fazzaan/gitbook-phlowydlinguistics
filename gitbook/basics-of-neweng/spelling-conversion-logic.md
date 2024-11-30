@@ -3,11 +3,12 @@
 ## Primary Goals but written concisely
 
 1. Simplify spellings.
-   1. One letter has one sound, but one sound can be made by several letters. Diacritics are allowed; consonant respelling is preferred. No digraphs.
-   2. No double letters (unless necessary).
-   3. No vowels split apart.
-   4. Phonetic consonant respelling (where reasonable).
+   1. One letter has one sound, but one sound can be made by several letters. No digraphs.
+   2. Diacritics are allowed for preserving spelling patterns; respelling is preferred.
+   3. Phonetic consonant respelling (where reasonable).&#x20;
+   4. No double letters (unless necessary).
    5. Phonetic vowel respelling (if diacritics are too messy).
+   6. No vowels split apart.
 2. Increase visual consistency & distinction.
    1. Preserve etymological spelling patterns.
    2. Retain visual distinctions between homophones.
