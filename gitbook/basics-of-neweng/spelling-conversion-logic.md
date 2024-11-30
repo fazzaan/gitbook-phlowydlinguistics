@@ -1,26 +1,61 @@
 # Spelling conversion logic
 
-## Primary Goals
+## Primary Goals but written concisely
 
 1. Simplify spellings.
-   1. Each letter has only one phonemic value.&#x20;
-      1. Modifications are allowed using diacritics.
-      2. Multiple letters are allowed to produce the same phonemic values.
-   2. No double letters, unless necessary.
-   3. No vowel combinations split apart (like ⟨a⟩ in ⟨face⟩).
-   4. Phonetic respelling for standard pronunciation mutations.
-      1. Voiced ⟨s⟩ suffix after voiced codas, compare ducks /dʌks/ & dogs /dɔɡz/.
-      2. g as j /ʤ/ in ⟨ge/gi/gy⟩
-   5. Phonetic respelling for unreasonable or unresolvable vowel variations.
-      1. ⟨ou⟩ is remarkably common and also remarkably nonsensical.&#x20;
-2. Retain & maximize visual & aural distinctions.
+   1. One letter has one sound, but one sound can be made by several letters. Diacritics are allowed; consonant respelling is preferred. No digraphs.
+   2. No double letters (unless necessary).
+   3. No vowels split apart.
+   4. Phonetic consonant respelling (where reasonable).
+   5. Phonetic vowel respelling (if diacritics are too messy).
+2. Increase visual consistency & distinction.
+   1. Preserve etymological spelling patterns.
+   2. Retain visual distinctions between homophones.
+   3. Increase visual distinction between homographs & homonyms.
+
+## Primary Goals
+
+### 1. Simplify spellings.
+
+One letter has one sound (phoneme).     E.g.:
+
+* t is always /t/
+* þ is always /θ/
+
+One sound can be made by many letters.     E.g.:
+
+* /ʃ/ can be made by ʃ, š, ťiV, ʞ̌, ч̌, ç̌
+* /k/ can be made by c, k, q, ʞ
+* /ʤ/ can be made by j, ǧ, ď
+
+Modifications are allowed using diacritics.
+
+Multiple letters are allowed to produce the same phonemic values.
+
+No double letters, unless necessary.
+
+No vowel combinations split apart (like ⟨a⟩ in ⟨face⟩).
+
+Phonetic respelling for standard pronunciation mutations.
+
+Voiced ⟨s⟩ suffix after voiced codas, compare ducks /dʌks/ & dogs /dɔɡz/.
+
+g as j /ʤ/ in ⟨ge/gi/gy⟩
+
+Phonetic respelling for unreasonable or unresolvable vowel variations.
+
+⟨ou⟩ is remarkably common and also remarkably nonsensical.&#x20;
+
+
+
+1. Retain & maximize visual & aural distinctions.
    1. Preserve etymological spelling patterns.
    2. Retain visual distinctions between homophones.
       1. Not all homophones are homophones in every accent. Erasing distinctions is deleterious and culturally insensitive. Grammatic homophones tend to exist in most accents, whereas semantic homophones tend to have arisen as a result of [phonological mergers](https://en.wikipedia.org/wiki/Category:Splits_and_mergers_in_English_phonology).
          1. Semantic: bow/bough
          2. Grammatic: passed/past
    3. Increase visual distinction between homographs and homonyms.
-      1. Bow — /baw/ vs /bəw/
+      1. Bow — /baw/ vs /bəw/ → baw vs bōw
       2. Row — /ɹaw/ vs /ɹəw/
       3.
 
