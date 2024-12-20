@@ -34,6 +34,7 @@
 ## About
 
 * [Glossary](about/glossary.md)
+* [Archiphonemes](about/archiphonemes.md)
 * [FAQs](about/faqs.md)
 
 ## External connection
