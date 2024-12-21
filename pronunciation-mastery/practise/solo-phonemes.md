@@ -26,15 +26,15 @@ They should be practised in an "infinite" form — a continuous sound, with no d
 
 You also need to practise them _with_ vowels on either side, as well as other fricatives and other consonants:
 
-|                         |              |              |
-| ----------------------- | ------------ | ------------ |
-| fricatives together     | "have this"  | /a**vvðð**ɪ/ |
-|                         | "his very"   | /ɪ**zzvv**ɛ/ |
-|                         | "with the"   | /ɪðððə/      |
-| fricative—plosive       | "have to"    | /a**vvt**ə/  |
-| plosive(stop)—fricative | keep the"    | /ij**pðð**ə/ |
-| liquid—fricative        | "call the"   | /oː**ɫðð**ə/ |
-| fricative—liquid        | I've looked" | /ɑj**vvl**ʊ/ |
+| Fricative connection    | Example words | Example IPA  |
+| ----------------------- | ------------- | ------------ |
+| fricatives together     | "have this"   | /a**vvðð**ɪ/ |
+|                         | "his very"    | /ɪ**zzvv**ɛ/ |
+|                         | "with the"    | /ɪðððə/      |
+| fricative—plosive       | "have to"     | /a**vvt**ə/  |
+| plosive(stop)—fricative | keep the"     | /ij**pðð**ə/ |
+| liquid—fricative        | "call the"    | /oː**ɫðð**ə/ |
+| fricative—liquid        | I've looked"  | /ɑj**vvl**ʊ/ |
 
 
 
@@ -48,7 +48,7 @@ The approximants are: w /w/ , wh /ʍ/ , r /ɹ/ , y /j/ , l- /l/ , -l /ɫ/. \[Mak
 
 In English, an approximant can exist in 5 positions regularly. Using /w/ as an example:
 
-<table><thead><tr><th width="249"></th><th width="284"></th><th></th></tr></thead><tbody><tr><td>Glide into vowel</td><td>Start with glide</td><td>water  → /'woː.təʴ/</td></tr><tr><td>Vowel—glide—vowel</td><td>Glide in the middle</td><td>lower → /'ləw.əʴ/</td></tr><tr><td>Vowel into glide</td><td>End with glide</td><td>how → /haw/</td></tr><tr><td>Consonant—glide—vowel </td><td>Start with consonant before glide</td><td>twin → /twɪn/</td></tr><tr><td>Vowel—glide—consonant</td><td>End with consonant after glide</td><td>mouse → /maws/</td></tr></tbody></table>
+<table><thead><tr><th width="269">Approximant connection</th><th width="311">Description</th><th>Example IPA</th></tr></thead><tbody><tr><td>Aprxmnt into Vowel</td><td>Start with aprxmnt</td><td>water  → /'woː.təʴ/</td></tr><tr><td>Vowel—Aprxmnt—Vowel</td><td>Aprxmnt in the middle</td><td>lower → /'ləw.əʴ/</td></tr><tr><td>Vowel into Aprxmnt</td><td>End with aprxmnt</td><td>how → /haw/</td></tr><tr><td>Consonant—Aprxmnt—Vowel </td><td>Start with consonant before aprxmnt</td><td>twin → /twɪn/</td></tr><tr><td>Vowel—Aprxmnt—Consonant</td><td>End with consonant after aprxmnt</td><td>mouse → /maws/</td></tr></tbody></table>
 
 ### Plosives
 
@@ -70,7 +70,11 @@ It is important that you learn to release the stop position at the end of a word
 
 In IPA transcription, this can be shown as such:
 
-<table data-full-width="true"><thead><tr><th width="130">word</th><th width="122">unreleased into next word (e.g. VN)</th><th>released into next word (e.g. EN)</th></tr></thead><tbody><tr><td>cat is</td><td>/kat̚ ɪt̚/</td><td>/katʰɪz/</td></tr><tr><td>bet on</td><td>/ɓɛt̚ on/</td><td>/bɛtʰɔn/</td></tr><tr><td>keep it</td><td>/kɪp̚ ɪt̚/</td><td>/kʰɪjpʰɪʔ/</td></tr><tr><td>did it</td><td>/ɗɪt̚ ɪt̚/</td><td>/dɪdɪt/</td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-full-width="true"><thead><tr><th width="130">word</th><th width="135">unreleased (VN)</th><th width="152">unreleased into next word (VN)</th><th width="129">released (EN)</th><th>released into next word (EN)</th></tr></thead><tbody><tr><td>cat is</td><td>/kăt̚/</td><td>/kăt̚ ɪt̚/</td><td>/katʼʰ/</td><td>/katʰɪz/</td></tr><tr><td>bet on</td><td>/ɓɛ̆t̚/</td><td>/ɓɛ̆t̚ on/</td><td>/bɛtʼʰ/</td><td>/bɛtʰɔn/</td></tr><tr><td>keep it</td><td>/kɪ̆p̚/</td><td>/kɪ̆p̚ ɪt̚/</td><td>/kɪjpʼʰ/</td><td>/kʰɪjpʰɪʔ/</td></tr><tr><td>did it</td><td>/ɗɪ̆t̚/</td><td>/ɗɪ̆t̚ ɪt̚/</td><td>/dɪdʼ/</td><td>/dɪdɪt/</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+
+{% hint style="info" %}
+_**TO DO**: add more final-position–stop examples_
+{% endhint %}
 
 
 
