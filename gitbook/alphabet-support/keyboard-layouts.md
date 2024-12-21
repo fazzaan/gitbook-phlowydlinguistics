@@ -4,6 +4,9 @@
 
 The only keyboard layout currently available for NewEng can be downloaded from my GitHub page.
 
+* Only works on Windows (so far; Linux and macOS versions coming soon).
+* Latest version is 6.4.
+* Alt Gr key usage is required. AFAIK[^1], the Right Alt key does send the same keycode as Alt Gr.
 * Information on [FarrAndDroid GitBook page](https://farranddroid-tech.gitbook.io/farranddroid-tech-support/typing-tips/custom-keyboard-layouts/my-layouts-downloads/5-neweng-on-qwerty).
 * GitHub links:
   * [GitHub repo page](https://github.com/fazzaan/keyboard-layouts/tree/main/Layout%20-%20EN-UK%20-%20NewEng),
@@ -60,3 +63,6 @@ The only keyboard layout currently available for NewEng can be downloaded from m
 
 I haven't yet found another keyboard app that allows me to design my own layout.
 
+
+
+[^1]: as far as I know
