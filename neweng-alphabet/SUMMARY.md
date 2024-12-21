@@ -3,9 +3,9 @@
 ## Basics of NewEng
 
 * [Alphabet of NewEng](README.md)
-  * [New Letters](basics-of-neweng/alphabet-of-neweng/new-letters.md)
-  * [Full Alphabet](basics-of-neweng/alphabet-of-neweng/full-alphabet.md)
-  * [Phonetic Table of Letters](basics-of-neweng/alphabet-of-neweng/phonetic-table-of-letters.md)
+  * [New Letters](basics-of-neweng/readme/new-letters.md)
+  * [Full Alphabet](basics-of-neweng/readme/full-alphabet.md)
+  * [Phonetic Table of Letters](basics-of-neweng/readme/phonetic-table-of-letters.md)
 * [Vision for NewEng](basics-of-neweng/vision-for-neweng.md)
 * [Phases of spelling transition](basics-of-neweng/phases-of-spelling-transition/README.md)
   * [Phase 1: Letters & Stress](basics-of-neweng/phases-of-spelling-transition/phase-1-letters-and-stress.md)
@@ -44,7 +44,7 @@
 
 ## Getting Started
 
-* [Welcome - first edit](getting-started/readme.md)
+* [Welcome - first edit](getting-started/getting-started.md)
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
