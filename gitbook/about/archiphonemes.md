@@ -6,12 +6,12 @@ Notes about archiphonemes:
 
 _Italic archiphonemes represent phonetic classes:_
 
-* /X/ = sibilants (s, z, ʃ, ʒ, x|ç — exclude f, v, θ, ð)
-* /N/ = nasals (m, n, ŋ)
-* /V/ = fricatives (f, v, θ, ð, h — exclude sharp sibilants s, z, ʃ, ʒ, x|ç)
-* /P/ = plosives (p, b, t, d, k, ɡ)
-* /C/ = affricates (ʧ, ʤ)
-* /W/ = liquids (ɹ, j, l, ɫ, w)
+* /_X_/ = sibilants (s, z, ʃ, ʒ, x|ç — exclude f, v, θ, ð)
+* /_N_/ = nasals (m, n, ŋ)
+* /_V_/ = fricatives (f, v, θ, ð, h — exclude sharp sibilants s, z, ʃ, ʒ, x|ç)
+* /_P_/ = plosives (p, b, t, d, k, ɡ)
+* /_C_/ = affricates (ʧ, ʤ)
+* /_W_/ = liquids (ɹ, j, l, ɫ, w)
 
 _Straight,_ [_underlined_](#user-content-fn-1)[^1] _archiphonemes represent position classes:_
 
