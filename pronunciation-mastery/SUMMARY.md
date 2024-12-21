@@ -5,6 +5,11 @@
 * [“Why can't people understand me?”](why-cant-people-understand-me.md)
 * [“Why do I struggle with listening?”](why-do-i-struggle-with-listening.md)
 
+## Mindfulness
+
+* [Page 1](mindfulness/page-1.md)
+* [Page](mindfulness/page.md)
+
 ## Practise
 
 * [English Phonology — The IPA](practise/english-phonology-the-ipa.md)
