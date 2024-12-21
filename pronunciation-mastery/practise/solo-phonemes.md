@@ -70,7 +70,7 @@ It is important that you learn to release the stop position at the end of a word
 
 In IPA transcription, this can be shown as such:
 
-<table data-full-width="true"><thead><tr><th width="130">word</th><th width="135">unreleased (VN)</th><th width="152">unreleased into next word (VN)</th><th width="129">released (EN)</th><th>released into next word (EN)</th></tr></thead><tbody><tr><td>cat is</td><td>/kăt̚/</td><td>/kăt̚ ɪt̚/</td><td>/katʼʰ/</td><td>/katʰɪz/</td></tr><tr><td>bet on</td><td>/ɓɛ̆t̚/</td><td>/ɓɛ̆t̚ on/</td><td>/bɛtʼʰ/</td><td>/bɛtʰɔn/</td></tr><tr><td>keep it</td><td>/kɪ̆p̚/</td><td>/kɪ̆p̚ ɪt̚/</td><td>/kɪjpʼʰ/</td><td>/kʰɪjpʰɪʔ/</td></tr><tr><td>did it</td><td>/ɗɪ̆t̚/</td><td>/ɗɪ̆t̚ ɪt̚/</td><td>/dɪdʼ/</td><td>/dɪdɪt/</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="114">word</th><th width="172">unreleased (VN)</th><th width="152">unreleased into next word (VN)</th><th width="146">released (EN)</th><th>released into next word (EN)</th></tr></thead><tbody><tr><td>cat is</td><td>/kăt̚/</td><td>/kăt̚ ɪt̚/</td><td>/katʼʰ/</td><td>/katʰɪz/</td></tr><tr><td>bet on</td><td>/ɓɛ̆t̚/</td><td>/ɓɛ̆t̚ on/</td><td>/bɛtʼʰ/</td><td>/bɛtʰɔn/</td></tr><tr><td>keep it</td><td>/kɪ̆p̚/</td><td>/kɪ̆p̚ ɪt̚/</td><td>/kɪjpʼʰ/</td><td>/kʰɪjpʰɪʔ/</td></tr><tr><td>did it</td><td>/ɗɪ̆t̚/</td><td>/ɗɪ̆t̚ ɪt̚/</td><td>/dɪdʼ/</td><td>/dɪdɪt/</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 {% hint style="info" %}
 _**TO DO**: add more final-position–stop examples_
