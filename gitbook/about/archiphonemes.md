@@ -2,8 +2,6 @@
 
 Notes about archiphonemes:
 
-
-
 _Italic archiphonemes represent phonetic classes:_
 
 * /_X_/ = sibilants (s, z, ʃ, ʒ, x|ç — exclude f, v, θ, ð)
@@ -15,15 +13,17 @@ _Italic archiphonemes represent phonetic classes:_
 
 _Straight,_ [_underlined_](#user-content-fn-1)[^1] _archiphonemes represent position classes:_
 
-* /<ins>L</ins>/ = **l**ips (p, b, m)
-* /<ins>F</ins>/ = labiodentals (**f**, v)
-* /<ins>D</ins>/ = **d**entals (θ, ð)
-* /<ins>S</ins>/ = lower-dentals (**s**, z)
-* /<ins>A</ins>/ = **a**lveolars (t, d, n, ʃ, ʒ, ʧ, ʤ, ɹ)
-* /<ins>J</ins>/ = palatals (**j**)
-* /<ins>K</ins>/ = velars (**k**, ɡ, ŋ)
-* /<ins>G</ins>/ = **g**lottals (ʔ, h, ɦ)
+* /L/ = **l**ips (p, b, m)
+* /F/ = labiodentals (**f**, v)
+* /D/ = **d**entals (θ, ð)
+* /S/ = lower-dentals (**s**, z)
+* /A/ = **a**lveolars (t, d, n, ʃ, ʒ, ʧ, ʤ, ɹ)
+* /J/ = palatals (**j**)
+* /K/ = velars (**k**, ɡ, ŋ)
+* /G/ = **g**lottals (ʔ, h, ɦ)
+
+[^1]: Markdown doesn't allow underlined text, but it can still be achieved using the rare HTML tag \<ins>abc\</ins> → abc.
 
 
 
-[^1]: Markdown doesn't allow underlined text, but it can still be achieved using the rare HTML tag \<ins\>abc\<\/ins\> → <ins>abc</ins>.
+    But it appears that GitBook sanitizes this tag out too.
