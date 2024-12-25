@@ -20,34 +20,34 @@
 
 ### 1. Simplify spellings.  
 
-  1. One letter has one sound (phoneme).     E.g.:
+1. One letter has one sound (phoneme).     E.g.:
 
-	* t is always /t/
-	* þ is always /θ/
+* t is always /t/
+* þ is always /θ/
 
-  2. One sound can be made by many letters.     E.g.:
+2. One sound can be made by many letters.     E.g.:
 
-	* /ʃ/ can be made by ʃ, š, ťiV, ʞ̌, ч̌, ç̌
-	* /k/ can be made by c, k, q, ʞ
-	* /ʤ/ can be made by j, ǧ, ď
+* /ʃ/ can be made by ʃ, š, ťiV, ʞ̌, ч̌, ç̌
+* /k/ can be made by c, k, q, ʞ
+* /ʤ/ can be made by j, ǧ, ď
 
-  3. Modifications are allowed using diacritics.
+3. Modifications are allowed using diacritics.
 
-  4. Multiple letters are allowed to produce the same phonemic values.
+4. Multiple letters are allowed to produce the same phonemic values.
 
-  5. No double letters, unless necessary.
+5. No double letters, unless necessary.
 
-  6. No vowel combinations split apart (like ⟨a⟩ in ⟨face⟩).
+6. No vowel combinations split apart (like ⟨a⟩ in ⟨face⟩).
 
-  7. Phonetic respelling for standard pronunciation mutations.
+7. Phonetic respelling for standard pronunciation mutations.
 
-	* Voiced ⟨s⟩ suffix after voiced codas, compare ducks /dʌks/ & dogs /dɔɡz/.
+* Voiced ⟨s⟩ suffix after voiced codas, compare ducks /dʌks/ & dogs /dɔɡz/.
 
-	* g as j /ʤ/ in ⟨ge/gi/gy⟩
+* g as j /ʤ/ in ⟨ge/gi/gy⟩
 
-  8. Phonetic respelling for unreasonable or unresolvable vowel variations.
+8. Phonetic respelling for unreasonable or unresolvable vowel variations.
 
-	* ⟨ou⟩ is remarkably common and also remarkably nonsensical.&#x20;
+* ⟨ou⟩ is remarkably common and also remarkably nonsensical.&#x20;
 
 
 
@@ -300,6 +300,8 @@ The Vowel+R rules are retained in NewEng.
 * -oor → ꝏr 
 * -our → ȣr 
 * -ur →  
+
+Info/Tip: See section/page about -or and -er suffix reduction.
 
 If a vowel is followed by R or RR but its phone is its base value, mark it with the inverted chevron, as such: ǒ.  
 (This diacritic choice is under review, because it looks too similar to the breve diacritic: ŏ / ǒ. 
