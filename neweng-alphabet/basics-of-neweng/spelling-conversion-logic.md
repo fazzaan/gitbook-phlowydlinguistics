@@ -52,17 +52,17 @@
 
 
 ### 2. Retain & maximize visual & aural distinctions.
-	1. Preserve etymological spelling patterns.
-	2. Retain visual distinctions between homophones.
-	  1. Not all homophones are homophones in every accent. Erasing distinctions is deleterious and culturally insensitive (see Gaal Dornick in _Foundation_). Grammatic homophones tend to exist in most accents, whereas semantic homophones tend to have arisen as a result of [phonological mergers](https://en.wikipedia.org/wiki/Category:Splits_and_mergers_in_English_phonology).
-		 1. Semantic: bow vs bough → baw vs báŭȝ 
-		 2. Grammatic: passed vs past  → pâsèd (or pâsd) vs pâst 
-		 3. Rhotic: raw vs roar → råw vs ro̊r 
-		 4. Mergers/splitters: too many examples to put here, see the dedicated section/page. 
-	3. Increase visual distinction between homographs and homonyms.
-	  1. Bow — /baw/ vs /bəw/ → baw vs bōw
-	  2. Row — /ɹaw/ vs /ɹəw/ → raw vs rōw 
-	  3.
+1. Preserve etymological spelling patterns.
+2. Retain visual distinctions between homophones.
+  1. Not all homophones are homophones in every accent. Erasing distinctions is deleterious and culturally insensitive (see Gaal Dornick in _Foundation_). Grammatic homophones tend to exist in most accents, whereas semantic homophones tend to have arisen as a result of [phonological mergers](https://en.wikipedia.org/wiki/Category:Splits_and_mergers_in_English_phonology).
+	 1. Semantic: bow vs bough → baw vs báŭȝ 
+	 2. Grammatic: passed vs past  → pâsèd (or pâsd) vs pâst 
+	 3. Rhotic: raw vs roar → råw vs ro̊r 
+	 4. Mergers/splitters: too many examples to put here, see the dedicated section/page. 
+3. Increase visual distinction between homographs and homonyms.
+  1. Bow — /baw/ vs /bəw/ → baw vs bōw
+  2. Row — /ɹaw/ vs /ɹəw/ → raw vs rōw 
+  3.
 
 
 
@@ -75,11 +75,11 @@ The primary goals:
 
 ### Double letter simplifications
 
-	* Almost all double letters in English spelling serve for pronunciation effects, such as retaining checked vowels, and implying position of syllable stress. This is no longer necessary with NewEng, which marks vowel quality and syllable stress. 
-	* ck → k 
-		* The ck functions the same as a doubled consonant. 
-		* The k is also to prevent e/i/y from changing the c into a /s/. 
-		* Keep the k only. 
+* Almost all double letters in English spelling serve for pronunciation effects, such as retaining checked vowels, and implying position of syllable stress. This is no longer necessary with NewEng, which marks vowel quality and syllable stress. 
+* ck → k 
+	* The ck functions the same as a doubled consonant. 
+	* The k is also to prevent e/i/y from changing the c into a /s/. 
+	* Keep the k only. 
 
 ### Consonant digraphs 
 
@@ -116,8 +116,8 @@ We replace all digraphs with single letters. This is the reason for adding new l
 ## Suffixes 
 
 ### -ER suffix
-Verbs - keep ER
-Nouns - reduce ER to R if unstressed
+Verbs - keep ER  
+Nouns - reduce ER to R if unstressed  
 Adjectives - unsure. Maybe keep ER for superlatives, or change to RE as per MORE. (Although MORE is now spelled MOR so doesn't make sense.)
 
 ### -OR suffix
@@ -140,7 +140,9 @@ See _Grammatical suffixes._
 ## Grammatical suffixes 
 
 In English, there are an array of grammatical word mutations which result in ambiguity. With grammatical context, situational context and intonation, there is _rarely_ any ambiguity in either the spoken or the written language. But spelling is a tool to decrease ambiguity too, so in a respelling process such as this, we make it our intention to further decrease ambiguity where possible, and certainly avoid introducing additional ambiguity.  
+
 English has many homophones already, some of which exist due to grammatical mutations. Some are seemingly unavoidable because there are no rules as to what is allowed in the phonetic structure of a word.  
+
 * Past participle of a verb is formed by adding a D suffix.  
   * Depending on base word pronunciation, this D may be realised as a /d/, a /t/ or an /ɪd/.  
   * However, many verbs in base form already end in /t/, /d/ and /ɪd/.  
@@ -216,17 +218,33 @@ English has many homophones already, some of which exist due to grammatical muta
 
 ### Final S & Z and Final D 
 
+I have no recollection ov what I was planning to write here. Perhaps it's already been written in the previous чunk. 
 
-## Vowel respellings
 
-### Monophthong Vowels&#x20;
+## Respelling of Vowels 
 
-#### Monographs
+Some vocabulary first 
 
-* wa- and wha- as /wɔ/ changes to 
+* A standard letter creates one sound at a time. 
+* A digraph is two letters that create one sound together, or create a diphthong that doesn't match the letters' base values.  
+* We define a monograph as one letter that creates two sounds at the same time — usually a díφþoŋ (diphthong). 
+* A díφþoŋ is two vowel sounds pronounced edge-to-edge. 
+* A mónoφþoŋ is one vowel sound pronounced independently. 
+
+### Monophthong Vowels 
+
+#### Monograph alterations 
+
+W modifies vowels in standard Eŋglish. This is messy and seemingly unnecessary in modern Eŋglish so we are removing it.  
+
+W is included in the _Monographs_ section because the W itself still produces the /w/ phoneme, but it modifies the proceeding vowel, which is a monograph.  
+
+* wa- and wha- as /wɔ/ (water, what) change to 
 * wo- and who- — because the letter ⟨a⟩ never makes the /ɔ/-vowels unless preceded by a ⟨w⟩. 
 
-#### Digraphs
+#### Digraphs to monophthongs 
+
+There are not many digraph monophthong vowels in English. Most digraphs
 
 * ⟨ae⟩ as /ɪː\~eː/ changes to æ&#x20;
 * ⟨oe⟩ as /ɪj\~yː/ changes to œ — protects pronunciation. 
@@ -235,7 +253,7 @@ English has many homophones already, some of which exist due to grammatical muta
 
 ### Diphthong Vowels
 
-#### Monographs — Magic E
+#### Monograph compressions — Magic E
 
 Monographs are (in this publication, at least) singular letters which carry a diphthong value — two vowel sounds together.  
 
@@ -243,20 +261,30 @@ Magic E diphthongs are considered as monographs because, when the final E is rem
 
 * a as /ɛj/ in "face". The /ɛj/ is retained with the suffix -ing, _facing_. 
 
-#### Monographs — no Magic E
+#### Monographs alterations — no Magic E
 
 Some vowels have diphthong values despite there being no Magic E. 
 
 * i in "kind" → ī = kīnd&#x20;
 * o in "go" → ō = gō&#x20;
 
+#### Digraph modifications 
 
-#### Digraphs
+This can involve:
+* changing the letters
+* marking the letters 
+* changing and marking the letters. 
 
-* ⟨ou⟩ as /aw/ → ⟨aŭ⟩ and ⟨aw⟩
+##### Examples 
 
-
-
+* ⟨ow⟩ as /aw/ changes to: 
+  * ⟨aw⟩ at the end of a word 
+  * ⟨aw⟩ if a vowel follows it (maybe?)
+  * ⟨aŭ⟩ if a consonant follows it.
+* ⟨ow⟩ as /əw/ changes to: 
+  * /ōw/ at the end of a word 
+  * ⟨ōw⟩ if a vowel follows it (maybe?)
+  * ⟨ōŭ⟩ if a consonant follows it. (maybe?) (shown → ʃōŭn)
 
 
 ### R-tail Vowels - rules retained
@@ -265,7 +293,27 @@ The Vowel+R rules are retained in NewEng.
 
 #### Vowel+R
 
+* -ar → 
 * -er → -r -- if the E is unpronounced or is unstressed /ɜː/\~/ə/&#x20;
+* -ir → 
+* -or → 
+* -oor → ꝏr 
+* -our → ȣr 
+* -ur →  
+
+If a vowel is followed by R or RR but its phone is its base value, mark it with the inverted chevron, as such: ǒ.  
+(This diacritic choice is under review, because it looks too similar to the breve diacritic: ŏ / ǒ. 
+
+* ar : carry → cǎry
+* er : ferry → fěry 
+* ir : mirror → mǐror
+* or : borrow → bǒrōw 
+* bury
+  
+If the vowel's pronunciation is of another value, mark it accordingly:  
+
+* our : courage → cȣ̂rȧj 
+
 
 #### Vowel+R+E
 
@@ -273,6 +321,7 @@ The Vowel+R rules are retained in NewEng.
 * -ere → ĕr for /ɛː(ɹ)/ in "there", "where"
 * -ire → īr for /ɑjə(ɹ)/ in "fire," "dire", "mire", "wire"
 * -ore → or for /ɔ:(ɹ)/ in "more", "core", "lore"
+* -ure → ŭr or ūr 
 
 
 
