@@ -15,67 +15,75 @@
    3. Increase visual distinction between homographs & homonyms.
    4. Increase the ability for non-natives to decode English based on apparent patterns and logic.
 
-## Primary Goals
 
-### 1. Simplify spellings.
+## Primary Goals 
 
-One letter has one sound (phoneme).     E.g.:
+### 1. Simplify spellings.  
 
-* t is always /t/
-* þ is always /θ/
+  1. One letter has one sound (phoneme).     E.g.:
 
-One sound can be made by many letters.     E.g.:
+	* t is always /t/
+	* þ is always /θ/
 
-* /ʃ/ can be made by ʃ, š, ťiV, ʞ̌, ч̌, ç̌
-* /k/ can be made by c, k, q, ʞ
-* /ʤ/ can be made by j, ǧ, ď
+  2. One sound can be made by many letters.     E.g.:
 
-Modifications are allowed using diacritics.
+	* /ʃ/ can be made by ʃ, š, ťiV, ʞ̌, ч̌, ç̌
+	* /k/ can be made by c, k, q, ʞ
+	* /ʤ/ can be made by j, ǧ, ď
 
-Multiple letters are allowed to produce the same phonemic values.
+  3. Modifications are allowed using diacritics.
 
-No double letters, unless necessary.
+  4. Multiple letters are allowed to produce the same phonemic values.
 
-No vowel combinations split apart (like ⟨a⟩ in ⟨face⟩).
+  5. No double letters, unless necessary.
 
-Phonetic respelling for standard pronunciation mutations.
+  6. No vowel combinations split apart (like ⟨a⟩ in ⟨face⟩).
 
-Voiced ⟨s⟩ suffix after voiced codas, compare ducks /dʌks/ & dogs /dɔɡz/.
+  7. Phonetic respelling for standard pronunciation mutations.
 
-g as j /ʤ/ in ⟨ge/gi/gy⟩
+	* Voiced ⟨s⟩ suffix after voiced codas, compare ducks /dʌks/ & dogs /dɔɡz/.
 
-Phonetic respelling for unreasonable or unresolvable vowel variations.
+	* g as j /ʤ/ in ⟨ge/gi/gy⟩
 
-⟨ou⟩ is remarkably common and also remarkably nonsensical.&#x20;
+  8. Phonetic respelling for unreasonable or unresolvable vowel variations.
 
-
-
-1. Retain & maximize visual & aural distinctions.
-   1. Preserve etymological spelling patterns.
-   2. Retain visual distinctions between homophones.
-      1. Not all homophones are homophones in every accent. Erasing distinctions is deleterious and culturally insensitive. Grammatic homophones tend to exist in most accents, whereas semantic homophones tend to have arisen as a result of [phonological mergers](https://en.wikipedia.org/wiki/Category:Splits_and_mergers_in_English_phonology).
-         1. Semantic: bow/bough
-         2. Grammatic: passed/past
-   3. Increase visual distinction between homographs and homonyms.
-      1. Bow — /baw/ vs /bəw/ → baw vs bōw
-      2. Row — /ɹaw/ vs /ɹəw/
-      3.
+	* ⟨ou⟩ is remarkably common and also remarkably nonsensical.&#x20;
 
 
 
-## Simplification
+### 2. Retain & maximize visual & aural distinctions.
+	1. Preserve etymological spelling patterns.
+	2. Retain visual distinctions between homophones.
+	  1. Not all homophones are homophones in every accent. Erasing distinctions is deleterious and culturally insensitive (see Gaal Dornick in _Foundation_). Grammatic homophones tend to exist in most accents, whereas semantic homophones tend to have arisen as a result of [phonological mergers](https://en.wikipedia.org/wiki/Category:Splits_and_mergers_in_English_phonology).
+		 1. Semantic: bow vs bough → baw vs báŭȝ 
+		 2. Grammatic: passed vs past  → pâsèd (or pâsd) vs pâst 
+		 3. Rhotic: raw vs roar → råw vs ro̊r 
+		 4. Mergers/splitters: too many examples to put here, see the dedicated section/page. 
+	3. Increase visual distinction between homographs and homonyms.
+	  1. Bow — /baw/ vs /bəw/ → baw vs bōw
+	  2. Row — /ɹaw/ vs /ɹəw/ → raw vs rōw 
+	  3.
 
-The primary goals
+
+
+## Simplifications 
+
+The primary goals:
+* reduce letter count 
+* reduce spelling & letter-sound exceptions 
+* reduce vowel complexity 
 
 ### Double letter simplifications
 
-* ck → k -- the k is to prevent e/i/y from changing the c into a /s/. Keep the k.
+	* Almost all double letters in English spelling serve for pronunciation effects, such as retaining checked vowels, and implying position of syllable stress. This is no longer necessary with NewEng, which marks vowel quality and syllable stress. 
+	* ck → k 
+		* The ck functions the same as a doubled consonant. 
+		* The k is also to prevent e/i/y from changing the c into a /s/. 
+		* Keep the k only. 
 
-## Digraph simplifications
+### Consonant digraphs 
 
 We replace all digraphs with single letters. This is the reason for adding new letters to the alphabet.
-
-### Consonants
 
 * ch → ч -- English digraph as /ʧ/
 * ch → ч̌ -- French digraph as /ʃ/&#x20;
@@ -83,7 +91,7 @@ We replace all digraphs with single letters. This is the reason for adding new l
 * ch → ʞ̌ -- French digraph as /ʃ/ from Greek as /k/&#x20;
 * gh → ȝ -- digraph as /◌\~ɣ/
 * gh → ȝ̌ -- digraph as /f\~ɸ/
-* gh → ȝ̊ -- digraph as /ɡ/
+* gh → ȝ̊ -- digraph as /ɡ/ (actually I think this never exists) 
 * gn → ȝn -- digraph as /◌\~ɣ/+/n/
 * gn → ȝ̊n -- non-digraph as /ɡn/ showing relation to /ɣn/
 * ny → и -- Spanish-root digraph as /ɲ/
@@ -215,33 +223,32 @@ English has many homophones already, some of which exist due to grammatical muta
 
 #### Monographs
 
-* wa- and wha- as /wɔ/ → wo- and who- -- ⟨a⟩ never makes the /ɔ/ vowels unless preceded by a ⟨w⟩.
+* wa- and wha- as /wɔ/ changes to 
+* wo- and who- — because the letter ⟨a⟩ never makes the /ɔ/-vowels unless preceded by a ⟨w⟩. 
 
 #### Digraphs
 
-* ⟨ae⟩ as /ɪː\~eː/ → æ&#x20;
-* ⟨oe⟩ as /ɪj\~yː/ → œ -- protects pronunciation&#x20;
+* ⟨ae⟩ as /ɪː\~eː/ changes to æ&#x20;
+* ⟨oe⟩ as /ɪj\~yː/ changes to œ — protects pronunciation. 
 
 
 
 ### Diphthong Vowels
 
-Monographs — Magic E
+#### Monographs — Magic E
 
-Monographs are singular letters which carry a diphthong value — two vowel sounds together.&#x20;
+Monographs are (in this publication, at least) singular letters which carry a diphthong value — two vowel sounds together.  
 
 Magic E diphthongs are considered as monographs because, when the final E is removed to make way for a suffix, the Magic E vowel maintains its diphthong value.
 
-
-
-* a as&#x20;
+* a as /ɛj/ in "face". The /ɛj/ is retained with the suffix -ing, _facing_. 
 
 #### Monographs — no Magic E
 
+Some vowels have diphthong values despite there being no Magic E. 
+
 * i in "kind" → ī = kīnd&#x20;
 * o in "go" → ō = gō&#x20;
-*
-
 
 
 #### Digraphs
