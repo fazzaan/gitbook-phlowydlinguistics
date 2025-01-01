@@ -27,6 +27,7 @@
 
 ## Writings in NewEng
 
+* [Oxford 3000 and Oxford 5000](writings-in-neweng/oxford-3000-and-oxford-5000.md)
 * [Ʃīn Lôv (Shine Love)](writings-in-neweng/in-lov-shine-love.md)
 * [Sethos - Genshin Impact Fandom Wiki Page](writings-in-neweng/sethos-genshin-impact-fandom-wiki-page.md)
 
