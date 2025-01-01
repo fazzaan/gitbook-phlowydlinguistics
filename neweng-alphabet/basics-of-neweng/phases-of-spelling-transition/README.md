@@ -6,6 +6,10 @@ To solve this, we can divide the spelling system reformation into multiple steps
 
 Each of these transitionary steps may happen separately or in combination. Some steps would help ease transition over a few years (or even a couple of generations); other steps would better [take place](#user-content-fn-2)[^2] simultaneously.
 
+{% content-ref url="../../writings-in-neweng/oxford-3000-and-oxford-5000.md" %}
+[oxford-3000-and-oxford-5000.md](../../writings-in-neweng/oxford-3000-and-oxford-5000.md)
+{% endcontent-ref %}
+
 {% hint style="info" %}
 You can view the Oxford 3000 and Oxford 5000 word lists as spreadsheets, [here](https://docs.google.com/spreadsheets/d/1-jsegEt3w7L35s7fPLsBZ7Dne0GoVsdqtNvsdBGfLFk/) (column I, _NewEng L4_).
 {% endhint %}
