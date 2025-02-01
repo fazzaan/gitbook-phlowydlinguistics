@@ -7,13 +7,13 @@ Assimilative digraphs in consonant space remain, because these are mostly (if no
 ## English Diphthongs 
 
 Diphthongs of English are:
-### /ɪj/ "me"  
-### /ɛj/ "may"  
-### /ɑj/ "my"  
-### /oj/ "boy"  
-### /aw/ "cow"  
-### /əw/ "go"  
-### /uw/ "zoo"  
+* /ɪj/ "me"  
+* /ɛj/ "may"  
+* /ɑj/ "my"  
+* /oj/ "boy"  
+* /aw/ "cow"  
+* /əw/ "go"  
+* /uw/ "zoo"  
 
 ## Reducing unnecessary complexity
 
