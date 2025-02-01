@@ -2,7 +2,18 @@
 
 In NewEng, all pure digraphs are vowels.
 
-Assimilative digraphs in consonant space remain, because these are mostly (if not entirely) a physical phenomenon arising from the movement of the mouth.
+Assimilative digraphs in consonant space remain, because these are mostly (if not entirely) a physical phenomenon arising from the movement of the mouth.  
+
+## English Diphthongs 
+
+Diphthongs of English are:
+### /ɪj/ "me"  
+### /ɛj/ "may"  
+### /ɑj/ "my"  
+### /oj/ "boy"  
+### /aw/ "cow"  
+### /əw/ "go"  
+### /uw/ "zoo"  
 
 ## Reducing unnecessary complexity
 
@@ -26,21 +37,71 @@ However, the breve diacritic on the u, ⟨ŭ⟩, is also unnecessary, because /
 
 
 
-## List of digraphs and diphthongs
+## Digraph diphthongs
+
+### /ɪj/ "me"  
+
+| Defined | Accurate | IPA            | Example | Old spelling | Position |
+| ------- | -------- | -------------- | ------- | ------------ | -------- |
+| ēy     | ē, ï   | /iː/\~/ɪj, ɪi/ | kēy    | key          | Coda     |
+|         |          |                |         |              |          |
+
+
+### /ɛj/ "may"  
+
+| Defined | Accurate | IPA            | Example | Old spelling | Position |
+| ------- | -------- | -------------- | ------- | ------------ | -------- |
+| ei      |          |                | rein    | rein         | Mid-word |
+| ey      |          |                | hey     | hey          | Coda     |
+| ăi     |          |                | măil   | mail         | Mid-word |
+| ăy     |          |                | dăy    | day          | Coda     |
+
+
+### /ɑj/ "my"  
+
+| Defined | Accurate | IPA            | Example | Old spelling | Position |
+| ------- | -------- | -------------- | ------- | ------------ | -------- |
+
+
+### /oj/ "boy"  
+
+| Defined | Accurate | IPA            | Example | Old spelling | Position |
+| ------- | -------- | -------------- | ------- | ------------ | -------- |
+| oi      |          |                |         |              |          |
+| oy      |          |                |         |              |          |
+
+
+### /aw/ "cow"  
 
 | Defined | Accurate | IPA            | Example | Old spelling | Position |
 | ------- | -------- | -------------- | ------- | ------------ | -------- |
 | au      | aŭ      | /aʊ/\~/aw/     | caunt   | count        | Mid-word |
 | aw      | aw       | /aʊ/\~/aw/     | haw     | how          | Coda     |
+
+
+### /əw/ "go"  
+
+| Defined | Accurate | IPA            | Example | Old spelling | Position |
+| ------- | -------- | -------------- | ------- | ------------ | -------- |
 | ōw     | ō       | /əʊ/\~/əʊ/     | flōw   | flow         | Coda     |
-| ei      |          |                | rein    | rein         | Mid-word |
-| ey      |          |                | hey     | hey          | Coda     |
-| ăi     |          |                | măil   | mail         | Mid-word |
-| ăy     |          |                | dăy    | day          | Coda     |
-| oi      |          |                |         |              |          |
-| oy      |          |                |         |              |          |
-| ēy     | ē, ï   | /iː/\~/ɪj, ɪi/ | kēy    | key          | Coda     |
-|         |          |                |         |              |          |
+
+
+### /uw/ "zoo"  
+
+| Defined | Accurate | IPA            | Example | Old spelling | Position |
+| ------- | -------- | -------------- | ------- | ------------ | -------- |
+
+
+
+
+
+
+
+
+## Single-Vowel diphthongs (Magic E) 
+
+| Defined | Accurate | IPA            | Example | Old spelling | Position |
+| ------- | -------- | -------------- | ------- | ------------ | -------- |
 | ā      |          |                |         |              |          |
 | ǣ      |          |                |         |              |          |
 | ē      |          |                |         |              |          |
@@ -52,4 +113,3 @@ However, the breve diacritic on the u, ⟨ŭ⟩, is also unnecessary, because /
 | w̄      |          |                |         |              |          |
 | ꝏ̄      |          |                |         |              |          |
 | ȳ      |          |                |         |              |          |
-
