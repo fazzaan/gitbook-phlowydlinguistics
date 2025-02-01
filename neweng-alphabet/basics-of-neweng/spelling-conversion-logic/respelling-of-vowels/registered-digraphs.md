@@ -1,8 +1,8 @@
-# Registered Digraphs
+# Registered Diphthongs
 
 In NewEng, all pure digraphs are vowels.
 
-Assimilative digraphs in consonant space remain, because these are mostly (if not entirely) a physical phenomenon arising from the movement of the mouth.
+_Assimilative digraphs in consonant space remain, because these are mostly (if not entirely) a physical phenomenon arising from the movement of the mouth._
 
 ## English Diphthongs
 
@@ -37,24 +37,26 @@ To meet the phonetic standard of NewEng, /_aʊ_/ is represented by ⟨aŭ⟩.
 
 However, the breve diacritic on the u, ⟨ŭ⟩, is also unnecessary, because /_aʌ_/ does not exist in English phonology. Therefore, ⟨aŭ⟩ can be written more simply and quickly as ⟨au⟩. This saves time in handwriting, and saves characters in typing.
 
-## Digraph diphthongs
+## Diphthongs
 
 ### /ɪj/ "me"
 
-| Defined | Accurate | IPA            | Example | Old spelling | Position |
-| ------- | -------- | -------------- | ------- | ------------ | -------- |
-| ēy     | ē, ï   | /iː/\~/ɪj, ɪi/ | kēy    | key          | Coda     |
-|         |          |                |         |              |          |
+| Defined | Example | IPA       | Old spelling | Position |
+| ------- | ------- | --------- | ------------ | -------- |
+| ēy     | kēy    | /kɪj/     | key          | Coda     |
+| ē      | mē     | /mɪj/     | me           |          |
+| ï      | maʞ̌ïn | /mə'ʃɪjn/ | machine      |          |
+| ēà    | lēàd  | /lɪjd/    | lead         |          |
 
 ### /ɛj/ "may"
 
-| Defined | Accurate | IPA | Example | Old spelling | Position |
-| ------- | -------- | --- | ------- | ------------ | -------- |
-| ei      |          |     | rein    | rein         | Mid-word |
-| ey      |          |     | hey     | hey          | Coda     |
-| ăi     |          |     | măil   | mail         | Mid-word |
-| ăy     |          |     | dăy    | day          | Coda     |
-|         |          |     |         |              |          |
+| Defined | Example | IPA    | Old spelling | Position |
+| ------- | ------- | ------ | ------------ | -------- |
+| ei      | rein    | /ɹɛjn/ | rein         | Mid-word |
+| ey      | hey     | /hɛj/  | hey          | Coda     |
+| ăi     | măil   | /mɛjɫ/ | mail         | Mid-word |
+| ăy     | dăy    | /dɛj/  | day          | Coda     |
+|         |         | /ɛj/   |              |          |
 
 ### /ɑj/ "my"
 
@@ -109,16 +111,18 @@ _Jury is very much STILL OUT on this one, with regards to how exactly to transcr
 
 ## Single-Vowel diphthongs (Magic E)
 
-| Defined | Accurate | IPA | Example | Old spelling | Position |
-| ------- | -------- | --- | ------- | ------------ | -------- |
-| ā      | ei       |     |         |              |          |
-| ǣ      | ee       |     |         |              |          |
-| ē      | ii       |     |         |              |          |
-| ī      | âi      |     |         |              |          |
-| ō      | əŭ      |     |         |              |          |
-| œ̄      | œœ       |     |         |              |          |
-| ū      | yiw      |     |         | f            |          |
-| ȣ̄      | ohss     |     |         |              |          |
-| w̄      |          |     |         |              |          |
-| ꝏ̄      |          |     |         |              |          |
-| ȳ      |          |     |         |              |          |
+| Defined | Phonetic | IPA   | Example | Old spelling | Position |
+| ------- | -------- | ----- | ------- | ------------ | -------- |
+| ā      | ei       | /ɛj/  |         |              |          |
+| ǣ      | ee       | /eː/  |         |              |          |
+| ē      | ii       | /ɪj/  |         |              |          |
+| ī      | âi      | /ɑj/  |         |              |          |
+| ō      | əŭ      | /əw/  |         |              |          |
+| œ̄      | œœ       | /yː/  |         |              |          |
+| ū      | iw       | /juw/ |         |              |          |
+| ȣ̄      | ow       | /əw/  |         |              |          |
+| w̄      | iw       | /juw/ |         |              |          |
+| ꝏ̄      | /        | /     |         |              |          |
+| ȳ      | âi      | /ɑj/  |         |              |          |
+
+There is no Single Vowel diphthong for /oj/ "boy" or /aw/ "cow".
