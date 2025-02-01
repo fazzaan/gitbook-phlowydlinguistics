@@ -13,6 +13,7 @@ Diphthongs of English are:
 * /oj/ "boy"  
 * /aw/ "cow"  
 * /əw/ "go"  
+  * /ɔw/ "cold"  (arguably not phonemic, but clearly distinct as pre-L-backing in many accents)  
 * /uw/ "zoo"  
 
 ## Reducing unnecessary complexity
@@ -55,12 +56,14 @@ However, the breve diacritic on the u, ⟨ŭ⟩, is also unnecessary, because /
 | ey      |          |                | hey     | hey          | Coda     |
 | ăi     |          |                | măil   | mail         | Mid-word |
 | ăy     |          |                | dăy    | day          | Coda     |
+|         |          |                |         |              |          |
 
 
 ### /ɑj/ "my"  
 
 | Defined | Accurate | IPA            | Example | Old spelling | Position |
 | ------- | -------- | -------------- | ------- | ------------ | -------- |
+|         |          |                |         |              |          |
 
 
 ### /oj/ "boy"  
@@ -69,6 +72,7 @@ However, the breve diacritic on the u, ⟨ŭ⟩, is also unnecessary, because /
 | ------- | -------- | -------------- | ------- | ------------ | -------- |
 | oi      |          |                |         |              |          |
 | oy      |          |                |         |              |          |
+|         |          |                |         |              |          |
 
 
 ### /aw/ "cow"  
@@ -77,6 +81,7 @@ However, the breve diacritic on the u, ⟨ŭ⟩, is also unnecessary, because /
 | ------- | -------- | -------------- | ------- | ------------ | -------- |
 | au      | aŭ      | /aʊ/\~/aw/     | caunt   | count        | Mid-word |
 | aw      | aw       | /aʊ/\~/aw/     | haw     | how          | Coda     |
+|         |          |                |         |              |          |
 
 
 ### /əw/ "go"  
@@ -84,12 +89,31 @@ However, the breve diacritic on the u, ⟨ŭ⟩, is also unnecessary, because /
 | Defined | Accurate | IPA            | Example | Old spelling | Position |
 | ------- | -------- | -------------- | ------- | ------------ | -------- |
 | ōw     | ō       | /əʊ/\~/əʊ/     | flōw   | flow         | Coda     |
+|         |          |                |         |              |          |
+
+
+### /ɔw/ "cold" 
+
+_Jury is very much STILL OUT on this one, with regards to how exactly to transcribe this in NewEng._  
+_All instances of /ɔw/ appear to be pre-Dark-L, thus it is a phenomenological result of position assimilation, rather than a real phoneme._  
+_However, should it be rendered as /əw/ or /ɔw/? Writing it as ⟨ō⟩, which represents /ə/, is arguably wrong._  
+_I have no idea what to do with homophones like roll and role._  
+
+| Defined | Accurate | IPA            | Example | Old spelling | Position |
+| ------- | -------- | -------------- | ------- | ------------ | -------- |
+| oàl     |          |                | coàl    | coal         |          |
+| ol      |          |                | roll    | roll         |          |
+| ole     |          |                | role    | role         |          |
+| owl     | owl      |                | bowl    | bowl         |          |
+| ȣ̄l     | owl      |                | sȣ̄l    | soul         |          |
+|         |          |                |         |              |          |
 
 
 ### /uw/ "zoo"  
 
 | Defined | Accurate | IPA            | Example | Old spelling | Position |
 | ------- | -------- | -------------- | ------- | ------------ | -------- |
+|         |          |                |         |              |          |
 
 
 
