@@ -39,6 +39,8 @@ However, the breve diacritic on the u, ⟨ŭ⟩, is also unnecessary, because /
 
 ## Diphthongs
 
+_ee ay eye oi ow o oh you_  
+
 ### /ɪj/ "me"
 
 | Defined | Example | IPA       | Old spelling | Position |
@@ -68,6 +70,7 @@ However, the breve diacritic on the u, ⟨ŭ⟩, is also unnecessary, because /
 | ây      | ây       | /ɑj/ | eye          | Coda     |
 | ui      | guid/g̊īd    |      | guide        | Mid-word     |
 | uy      | buy      | /bɑj/ | buy          | Coda         |
+| ȳ       | mȳ       | /mɑj/ | my           | Mid-word and coda  |
 |         |          |      |              |          |
 
 ### /oj/ "boy"
