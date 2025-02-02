@@ -14,7 +14,7 @@ Diphthongs of English are:
 * /oj/ "boy"
 * /aw/ "cow"
 * /əw/ "go"
-  * /ɔw/ "cold" (arguably not phonemic, but clearly distinct as pre-L-backing in many accents)
+* /ɔw/ "cold[^1]"&#x20;
 * /uw/ "zoo"
 
 ## Reducing unnecessary complexity
@@ -43,20 +43,20 @@ However, the breve diacritic on the u, ⟨ŭ⟩, is also unnecessary, because /
 
 | Defined | Example | IPA       | Old spelling | Position |
 | ------- | ------- | --------- | ------------ | -------- |
-| ēy     | kēy    | /kɪj/     | key          | Coda     |
 | ē      | mē     | /mɪj/     | me           |          |
 | ï      | maʞ̌ïn | /mə'ʃɪjn/ | machine      |          |
+| ēy     | kēy    | /kɪj/     | key          | Coda     |
 | ēà    | lēàd  | /lɪjd/    | lead         |          |
 
 ### /ɛj/ "may"
 
 | Defined | Example | IPA    | Old spelling | Position |
 | ------- | ------- | ------ | ------------ | -------- |
+| ā      | fāç    | /ɛj/   | face         | Mid-word |
 | ei      | rein    | /ɹɛjn/ | rein         | Mid-word |
 | ey      | hey     | /hɛj/  | hey          | Coda     |
 | ăi     | măil   | /mɛjɫ/ | mail         | Mid-word |
 | ăy     | dăy    | /dɛj/  | day          | Coda     |
-|         |         | /ɛj/   |              |          |
 
 ### /ɑj/ "my"
 
@@ -126,3 +126,5 @@ _Jury is very much STILL OUT on this one, with regards to how exactly to transcr
 | ȳ      | âi      | /ɑj/  |         |              |          |
 
 There is no Single Vowel diphthong for /oj/ "boy" or /aw/ "cow".
+
+[^1]: (arguably not phonemic, but clearly distinct as pre-L-backing in many accents)
