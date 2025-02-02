@@ -60,32 +60,40 @@ However, the breve diacritic on the u, ⟨ŭ⟩, is also unnecessary, because /
 
 ### /ɑj/ "my"
 
-| Defined | Accurate | IPA | Example | Old spelling | Position |
-| ------- | -------- | --- | ------- | ------------ | -------- |
-|         |          |     |         |              |          |
+| Defined | Example  | IPA  | Old spelling | Position |
+| ------- | -------- | ---- | ------------ | -------- |
+| ī       | nīç      | /nɑjs/ | nice      | Mid-word and coda |
+| īȝ      | nīȝt     | /nɑjt/ | night     | Mid-word and coda |
+| âi      | ??       |      |              |          |
+| ây      | ây       | /ɑj/ | eye          | Coda     |
+| ui      | guid/g̊īd    |      | guide        | Mid-word     |
+| uy      | buy      | /bɑj/ | buy          | Coda         |
+|         |          |      |              |          |
 
 ### /oj/ "boy"
 
-| Defined | Accurate | IPA | Example | Old spelling | Position |
-| ------- | -------- | --- | ------- | ------------ | -------- |
-| oi      |          |     |         |              |          |
-| oy      |          |     |         |              |          |
-|         |          |     |         |              |          |
+| Defined | Example | IPA    | Old spelling | Position |
+| ------- | ------- | ------ | ------------ | -------- |
+| oi      |  чoiç   | /ʧojs/ | choice       | Mid-word |
+| oy      |  joy    | /ʤoj/  | joy          | Coda     |
+|         |         |        |              |          |
 
 ### /aw/ "cow"
 
-| Defined | Accurate | IPA        | Example | Old spelling | Position |
-| ------- | -------- | ---------- | ------- | ------------ | -------- |
-| au      | aŭ      | /aʊ/\~/aw/ | caunt   | count        | Mid-word |
-| aw      | aw       | /aʊ/\~/aw/ | haw     | how          | Coda     |
-|         |          |            |         |              |          |
+| Defined | Example | IPA        | Old spelling | Position |
+| ------- | ------- | ---------- | ------------ | -------- |
+| au (aŭ) | caunt   | /aʊ/\~/aw/ | count        | Mid-word |
+| aw      | haw     | /aʊ/\~/aw/ | how          | Coda     |
+|         |         |            |              |          |
 
 ### /əw/ "go"
 
-| Defined | Accurate | IPA        | Example | Old spelling | Position |
-| ------- | -------- | ---------- | ------- | ------------ | -------- |
-| ōw     | ō       | /əʊ/\~/əʊ/ | flōw   | flow         | Coda     |
-|         |          |            |         |              |          |
+| Defined | Example | IPA        | Old spelling | Position |
+| ------- | ------- | ---------- | ------------ | -------- |
+| ō       |         |            |              |          |
+| ōw      | flōw    |/əʊ/\~/əʊ/  | flow         | Coda     |
+| ȣ̄      | ðȣȝ     | /ðəw/      | though       |          |
+|         |         |            |              |          |
 
 ### /ɔw/ "cold"
 
@@ -105,9 +113,16 @@ _Jury is very much STILL OUT on this one, with regards to how exactly to transcr
 
 ### /uw/ "zoo"
 
-| Defined | Accurate | IPA | Example | Old spelling | Position |
-| ------- | -------- | --- | ------- | ------------ | -------- |
-|         |          |     |         |              |          |
+| Defined | Example | IPA   | Old spelling | Position |
+| ------- | ------- | ---   | ------------ | -------- |
+| ū       | ūz     | /juwz/ | use          | Anywhere |
+| ꝏ       | fꝏd   | /fuwd/ | food         | Mid-word and Coda |
+| ö       | ʃö      | /ʃuw/  | shoe         |          |
+| ŏ       | tŏ     | /tuw/    | to           | Anywhere (Can reduce to /ʊ/) |
+| ü       | süper   | /suwpə | super        | Unsure |
+| ȣ̈       | yȣ̈    | /juw/   | you         |          |
+| w̄      | nw̄      | /njuw/ | new        |          |
+|         |         |       |              |          |
 
 ## Single-Vowel diphthongs (Magic E)
 
