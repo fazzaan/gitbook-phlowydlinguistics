@@ -28,4 +28,18 @@ What I've come to realise is that the current IPA rendition of English (regardin
 
 Rather, what is needed, is for teachers to actually teach the complexities. In all honesty, these are not _complicated_ complexities, and rather are environmental descriptors which can be learnt, understood, and then applied in context. This is not hard to do, and such complexities exist in probably every language of the world.
 
-In my experience, most teachers — native and non-native — have no real idea about how pronunciation works, nor have they any clue how to actually teach it effectively. (Teaching pronunciation effectively requires: organs of articulation, articulation methods, organ control skill & timing,&#x20;
+In my experience, most teachers — native and non-native — have no real idea about how pronunciation works, nor have they any clue how to actually teach it effectively.&#x20;
+
+{% hint style="success" %}
+Teaching pronunciation effectively requires:&#x20;
+
+* organs of articulation,&#x20;
+* articulation methods,&#x20;
+* organ control skill & timing,&#x20;
+* and even developing bespoke methods from observation and in real-time that fit both the bridge between their native language & English, and fit the individual student and their level of mindfulness and articulatory dexterity.
+{% endhint %}
+
+
+
+To cut a long article short, I actually forgot what else I was going to write here, so here's the contents of the document that I mentioned near the beginning:
+
