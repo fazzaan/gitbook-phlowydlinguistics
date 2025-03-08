@@ -58,10 +58,10 @@ Consonant digraphs are explored further in [respelling-of-consonants.md](respell
 * ou → ȣ -- (not as /aw/)
 
 {% hint style="info" %}
-Vowel digraphs are explored further in [respelling-of-vowels.md](respelling-of-vowels.md "mention")
+Vowel digraphs are explored further in [respelling-of-vowels](respelling-of-vowels/ "mention")
 {% endhint %}
 
-{% content-ref url="respelling-of-vowels.md" %}
-[respelling-of-vowels.md](respelling-of-vowels.md)
+{% content-ref url="respelling-of-vowels/" %}
+[respelling-of-vowels](respelling-of-vowels/)
 {% endcontent-ref %}
 

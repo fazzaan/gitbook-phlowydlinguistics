@@ -15,7 +15,8 @@
 * [Spelling conversion logic](basics-of-neweng/spelling-conversion-logic/README.md)
   * [Simplifications](basics-of-neweng/spelling-conversion-logic/simplifications.md)
   * [Suffixes](basics-of-neweng/spelling-conversion-logic/suffixes.md)
-  * [Respelling of Vowels](basics-of-neweng/spelling-conversion-logic/respelling-of-vowels.md)
+  * [Respelling of Vowels](basics-of-neweng/spelling-conversion-logic/respelling-of-vowels/README.md)
+    * [Registered Diphthongs](basics-of-neweng/spelling-conversion-logic/respelling-of-vowels/registered-digraphs.md)
   * [Respelling of Consonants](basics-of-neweng/spelling-conversion-logic/respelling-of-consonants.md)
 
 ## Alphabet Support
