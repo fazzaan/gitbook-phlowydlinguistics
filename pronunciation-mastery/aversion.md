@@ -16,8 +16,10 @@ It's honestly a surprise that this even needs to be explained, but here we are.
 | I want avocado | /ɑj wɔnt a.vəˈkɑː.dəw/ | /ɑj wɔn tə ˈfʌ kə dɔɣ/ | ...    |
 | his            | /hɪz/                  | /hɪs/                  | hiss   |
 | knees          | /nɪjz/                 | /nɪjs/                 | niece  |
+| hall           | /hoːɫ/                 | /hoːɹ/                 | whore  |
+| horse          | /hoːɹs/                | /hoːɹz/                | whores |
 
-_Tonal_ examples in Vietnamese (because apparently some people can't grasp the importance of this)
+_Tonal_ examples in Vietnamese
 
 |           |          |          |           |
 | --------- | -------- | -------- | --------- |
