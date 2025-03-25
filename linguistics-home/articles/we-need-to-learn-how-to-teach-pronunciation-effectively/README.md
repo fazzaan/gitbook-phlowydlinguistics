@@ -1,6 +1,6 @@
-# The IPA is fine — teachers just need to understand how to teach pronunciation
+# We need to learn how to teach pronunciation effectively
 
-This comes off the back of a situation in which some prominent linguists have "reanalyzed" English and discovered that the rendering of English through the lens of the IPA is somewhat inaccurate, and that these inaccuracies are likely the primary cause of a lot of students struggling to understand how to pronounce English correctly.
+This article comes off the back of a situation in which some prominent linguists have "reanalyzed" English and discovered that the rendering of English through the lens of the IPA is somewhat inaccurate, and that these inaccuracies are likely the primary cause of a lot of students struggling to understand how to pronounce English correctly.
 
 Their findings are correct; however, their fixes are not entirely so.
 

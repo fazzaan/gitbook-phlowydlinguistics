@@ -4,5 +4,5 @@
 
 ## Articles
 
-* [The IPA is fine — teachers just need to understand how to teach pronunciation](articles/the-ipa-is-fine-teachers-just-need-to-understand-how-to-teach-pronunciation/README.md)
-  * [Why IPA simplification is bad, regarding aspirant–plosive de-aspiration and CUBE is actually wrong](articles/the-ipa-is-fine-teachers-just-need-to-understand-how-to-teach-pronunciation/why-ipa-simplification-is-bad-regarding-aspirant-plosive-de-aspiration-and-cube-is-actually-wrong.md)
+* [We need to learn how to teach pronunciation effectively](articles/we-need-to-learn-how-to-teach-pronunciation-effectively/README.md)
+  * [Why IPA simplification is bad, regarding aspirant–plosive de-aspiration and CUBE is actually wrong](articles/we-need-to-learn-how-to-teach-pronunciation-effectively/why-ipa-simplification-is-bad-regarding-aspirant-plosive-de-aspiration-and-cube-is-actually-wrong.md)
