@@ -1,3 +1,7 @@
+---
+description: LANG.gitbook.io
+---
+
 # Phlowyd Linguistics Hub
 
 I never intended to become a linguist.
