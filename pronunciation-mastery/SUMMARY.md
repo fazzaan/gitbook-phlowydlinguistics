@@ -15,11 +15,16 @@
 
 * [Aversion](aversion.md)
 
+## The IPA
+
+* [What are phonemes?](the-ipa/what-are-phonemes.md)
+* [Types of phonemes](the-ipa/types-of-phonemes/README.md)
+  * [Vowels](the-ipa/types-of-phonemes/vowels.md)
+
 ## Practise
 
-* [English Phonology — The IPA](practise/english-phonology-the-ipa.md)
 * [Solo Phonemes](practise/solo-phonemes.md)
-* [Running Vocalization](practise/running-vocalization.md)
+* [Connected Speech](practise/connected-speech.md)
 * [Ending sounds](practise/ending-sounds.md)
 * ["Liaison"](practise/liaison.md)
 
