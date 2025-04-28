@@ -20,14 +20,16 @@ CUBE: ɑj – ɑː – ʌ – ə
 
 Rhotic: ɑj – ɑɹ – ʌ – ə
 
-kite /kɑjt/ – cart /kɑːt/ – cut /kʌt/&#x20;
+| diphthong   | long, tense ah | short, relaxed uh |
+| ----------- | -------------- | ----------------- |
+| kite /kɑjt/ | cart – /kɑːt/  | cut /kʌt/         |
 
 * /ɑː/ is tense & long
 * /ʌ/ is relaxed & short
 
 <figure><img src="../.gitbook/assets/Vowel tension paths - A series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="105"></th><th width="70"></th><th width="125"></th><th width="147"></th><th width="49"></th></tr></thead><tbody><tr><td>Standard</td><td>aɪ</td><td>a</td><td>ʌ</td><td>ə</td></tr><tr><td>CUBE</td><td>ɑj</td><td>ɑː</td><td>ʌ</td><td>ə</td></tr><tr><td>Rhotic</td><td>ɑj</td><td>ɑɹ</td><td>v</td><td>ə</td></tr><tr><td><em>difference</em></td><td><em>glide</em></td><td><em>tense, longer</em></td><td><em>relaxed, shorter</em></td><td></td></tr><tr><td>example</td><td>kite</td><td>cart</td><td>cut</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="105"></th><th width="70"></th><th width="122"></th><th width="140"></th><th width="49"></th></tr></thead><tbody><tr><td>Standard</td><td>aɪ</td><td>a</td><td>ʌ</td><td>ə</td></tr><tr><td>CUBE</td><td>ɑj</td><td>ɑː</td><td>ʌ</td><td>ə</td></tr><tr><td>Rhotic</td><td>ɑj</td><td>ɑɹ</td><td>ʌ</td><td>ə</td></tr><tr><td><em>difference</em></td><td><em>glide</em></td><td><em>tense, longer</em></td><td><em>relaxed, shorter</em></td><td></td></tr><tr><td>example</td><td>kite</td><td>cart</td><td>cut</td><td></td></tr></tbody></table>
 
 ***
 
@@ -43,7 +45,9 @@ CUBE: ɛj – ɛə – ɛ – ə
 
 Rhotic: ɛj – ɛɚ – ɛ – ə
 
-bait /bɛjt/ – bear /bɛə/ – bed /bɛd/
+| diphthong   | long, tense eh | short, relaxed e |
+| ----------- | -------------- | ---------------- |
+| bait /bɛjt/ | bear /bɛə/     | bed /bɛd/        |
 
 * /ɛə/ is tense & long
 * /ɛ/ is relaxed & short
@@ -56,7 +60,7 @@ Note that there is a characteristic difference here between the British Englishe
 
 <figure><img src="../.gitbook/assets/Vowel tension paths - E series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="104"></th><th width="97"></th><th width="76"></th><th width="127"></th><th width="151"></th><th width="68"></th></tr></thead><tbody><tr><td>standard</td><td></td><td>ɛɪ</td><td>ɛə/eə</td><td>ɛ</td><td>ə/ɚ</td></tr><tr><td>modern</td><td>stressed</td><td>ɛj</td><td>ɛə</td><td>ɛ</td><td>ə/ɚ</td></tr><tr><td></td><td>strong</td><td>ɛj</td><td>ɛː</td><td>ɛ</td><td>ə/ɚ</td></tr><tr><td></td><td>weak</td><td>ej</td><td>eː</td><td>e</td><td>ə/ɚ</td></tr><tr><td><em>difference</em></td><td><br></td><td><em>glide</em></td><td><em>tense, longer</em></td><td><em>relaxed, shorter</em></td><td></td></tr><tr><td>example</td><td></td><td>they</td><td>there</td><td>then</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="104"></th><th width="97"></th><th width="76"></th><th width="127"></th><th width="151"></th><th width="68"></th></tr></thead><tbody><tr><td>standard</td><td></td><td>ɛɪ</td><td>ɛə/eə</td><td>ɛ</td><td>ə/ɚ</td></tr><tr><td>modern</td><td>stressed</td><td>ɛj</td><td>ɛə</td><td>ɛ</td><td>ə/ɚ</td></tr><tr><td></td><td>strong</td><td>ɛj</td><td>ɛː</td><td>ɛ</td><td>ə/ɚ</td></tr><tr><td></td><td>weak</td><td>ej</td><td>eː</td><td>e</td><td>ə/ɚ</td></tr><tr><td><em>difference</em></td><td></td><td><em>glide</em></td><td><em>tense, longer</em></td><td><em>relaxed, shorter</em></td><td></td></tr><tr><td>example</td><td></td><td>they</td><td>there</td><td>then</td><td></td></tr></tbody></table>
 
 ***
 
@@ -68,9 +72,11 @@ This is i like in big, trick, spin.
 
 CUBE: ɪj – ɪ – ə
 
-seat /sɪjt/ – sit /sɪt/
+| long, tense ee (also a diphthong) | short, relaxed ih |
+| --------------------------------- | ----------------- |
+| seat /sɪjt/                       | sit /sɪt/         |
 
-* /i/ is tense & long
+* /ɪj/ is tense & long
 * /ɪ/ is relaxed & short
 
 <figure><img src="../.gitbook/assets/Vowel tension paths - i series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
@@ -91,14 +97,16 @@ CUBE: oj – oː – ɔ – ə
 
 Rhotic: oj – oɹ – ɔ – ə
 
-boy /boj/ – bought /boːt/ – robot /ɹɜʉ.bɔt/&#x20;
+| diphthong | long, tense aw | short, relaxed o |
+| --------- | -------------- | ---------------- |
+| boy /boj/ | bought /boːt/  | robot /ɹɜʉ.bɔt/  |
 
 * /oː/ is tense & long
 * /ɔ/ is relaxed & short
 
 <figure><img src="../.gitbook/assets/Vowel tension paths - O series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="108"></th><th width="62"></th><th width="120"></th><th width="142"></th><th width="61"></th></tr></thead><tbody><tr><td>standard</td><td>ɔɪ</td><td>ɔː</td><td>ɒ</td><td>ə</td></tr><tr><td>modern</td><td>oj</td><td>oː</td><td>ɔ</td><td>ə</td></tr><tr><td>difference</td><td>glide</td><td>tense, longer</td><td>relaxed, shorter</td><td></td></tr><tr><td>example</td><td>boy</td><td>bought</td><td>robot</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="108"></th><th width="62"></th><th width="127"></th><th width="142"></th><th width="61"></th></tr></thead><tbody><tr><td>standard</td><td>ɔɪ</td><td>ɔː</td><td>ɒ</td><td>ə</td></tr><tr><td>modern</td><td>oj</td><td>oː</td><td>ɔ</td><td>ə</td></tr><tr><td><em>difference</em></td><td><em>glide</em></td><td><em>tense, longer</em></td><td><em>relaxed, shorter</em></td><td></td></tr><tr><td>example</td><td>boy</td><td>bought</td><td>robot</td><td></td></tr></tbody></table>
 
 ***
 
@@ -124,7 +132,9 @@ CUBE: ʉw – ɵ – ə
 
 Better: ɵʉ – ɵ – ə
 
-food /fɵʉd/ – good /gɵd/
+| long, tense oo (also is a diphthong) | short, relaxed ooh |
+| ------------------------------------ | ------------------ |
+| food /fɵʉd/                          | good /gɵd/         |
 
 * /ɵʉ/ is tense & long
 * /ɵ/ is relaxed & short
@@ -135,7 +145,7 @@ food /fɵʉd/ – good /gɵd/
 
 <figure><img src="../.gitbook/assets/Vowel tension paths - U series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="92"></th><th width="119"></th><th width="147"></th><th width="55"></th></tr></thead><tbody><tr><td>standard</td><td>uː</td><td>ʊ</td><td>ə</td></tr><tr><td>modern</td><td>uw</td><td>ɵ</td><td>ə</td></tr><tr><td></td><td>tense, longer</td><td>relaxed, shorter</td><td></td></tr><tr><td>example</td><td>food</td><td>good</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="106"></th><th width="129"></th><th width="147"></th><th width="55"></th></tr></thead><tbody><tr><td>standard</td><td>uː</td><td>ʊ</td><td>ə</td></tr><tr><td>modern</td><td>uw</td><td>ɵ</td><td>ə</td></tr><tr><td><em>difference</em></td><td><em>tense, longer</em></td><td><em>relaxed, shorter</em></td><td></td></tr><tr><td>example</td><td>food</td><td>good</td><td></td></tr></tbody></table>
 
 ***
 
@@ -154,9 +164,13 @@ There is some asymmetry compared to the other vowel sets, in that the vowel at t
 
 In summary these vowels may not really bear a true relationship. However, all the other vowels are connected via this relationship, and the two sounds that I've put into this set are both orphaned. So it works even just as a way to store them apart from the other vowels.
 
+| short, wide a | long, tense er      | short, relaxed schwa                                 |
+| ------------- | ------------------- | ---------------------------------------------------- |
+| sat /sat/     | certain /ˈsɜː.tʰən/ | <p>a: about /əˈbaʉt/</p><p>er: hunger /ˈhʌŋ.ɡə/ </p> |
+
 <figure><img src="../.gitbook/assets/Vowel tension paths - ER series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
 
-<table data-header-hidden><thead><tr><th width="101"></th><th width="75"></th><th width="128"></th><th width="123"></th><th width="42"></th></tr></thead><tbody><tr><td>standard</td><td>aʊ</td><td>æ</td><td>ɜː</td><td>ə</td></tr><tr><td>modern</td><td>aw</td><td>a</td><td>ɜː</td><td>ə</td></tr><tr><td>difference</td><td>glide</td><td>tense, shorter</td><td>tense, longer</td><td></td></tr><tr><td>example</td><td>sound</td><td>sat</td><td>certain</td><td></td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="101"></th><th width="75"></th><th width="128"></th><th width="123"></th><th width="178"></th></tr></thead><tbody><tr><td>standard</td><td>aʊ</td><td>æ</td><td>ɜː</td><td>ə</td></tr><tr><td>modern</td><td>aw</td><td>a</td><td>ɜː</td><td>ə</td></tr><tr><td><em>difference</em></td><td><em>glide</em></td><td><em>tense, shorter</em></td><td><em>tense, longer</em></td><td></td></tr><tr><td>example</td><td>sound</td><td>sat</td><td>certain</td><td><p>a: about /əˈbaʉt/</p><p>er: hunger /ˈhʌŋ.ɡə/ </p></td></tr></tbody></table>
 
 ***
 
