@@ -6,6 +6,12 @@ Vowel Model v1 is the model that I am currently using to teach English pronuncia
 
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Vowel Model v1</td><td><a href="vowel-model-v1.md">vowel-model-v1.md</a></td></tr><tr><td>Vowel Model v2</td><td><a href="vowel-model-v2.md">vowel-model-v2.md</a></td></tr><tr><td>Vowel Model v3 <em>(latest)</em></td><td><a href="vowel-model-v2.md">vowel-model-v2.md</a></td></tr></tbody></table>
 
+
+
+***
+
+
+
 {% hint style="info" %}
 Read about the how & why I got into developing phonemic transcription models:
 {% endhint %}
@@ -13,6 +19,10 @@ Read about the how & why I got into developing phonemic transcription models:
 {% content-ref url="../../myths-and-facts/the-myth-of-the-ipa/improving-upon-cube.md" %}
 [improving-upon-cube.md](../../myths-and-facts/the-myth-of-the-ipa/improving-upon-cube.md)
 {% endcontent-ref %}
+
+
+
+***
 
 
 

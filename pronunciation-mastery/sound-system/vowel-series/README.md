@@ -8,7 +8,15 @@ _Source document:_ [_Vowel Tension Paths (Google Docs)_](https://docs.google.com
 This is my second Vowel Model hypothesis, which has problems. View the others via the buttons below.
 {% endhint %}
 
+
+
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Vowel Model v1</td><td><a href="vowel-model-v1.md">vowel-model-v1.md</a></td></tr><tr><td>Vowel Model v2 (this page)</td><td><a href="vowel-model-v2.md">vowel-model-v2.md</a></td></tr><tr><td>Vowel Model v3 <em>(latest)</em></td><td><a href="vowel-model-v2.md">vowel-model-v2.md</a></td></tr></tbody></table>
+
+
+
+***
+
+
 
 ## Vowel Model version 2
 

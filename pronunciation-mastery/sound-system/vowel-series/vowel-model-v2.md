@@ -12,6 +12,10 @@ Vowel Model v1 is the model that I am currently using to teach English pronuncia
 
 
 
+***
+
+
+
 ## Vowel Model version 2
 
 {% hint style="danger" %}
