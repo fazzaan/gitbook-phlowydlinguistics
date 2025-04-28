@@ -26,7 +26,10 @@
 * [System of Sounds](sound-system/system-of-sounds.md)
 * [Voice timing graphs](sound-system/voice-timing-graphs.md)
 * [Sound Relationships](sound-system/sound-relationships.md)
-* [Vowel series](sound-system/vowel-series.md)
+* [Vowel series](sound-system/vowel-series/README.md)
+  * [Vowel Model v1](sound-system/vowel-series/vowel-model-v1.md)
+  * [Vowel Model v2](sound-system/vowel-series/vowel-model-v2.md)
+  * [Vowel Model v3](sound-system/vowel-series/vowel-model-v3.md)
 * [Diphthong series](sound-system/diphthong-series.md)
 * [Consonant series](sound-system/consonant-series.md)
 
@@ -46,3 +49,5 @@
 
 * [The Myth of Liaison](myths-and-facts/the-myth-of-liaison.md)
 * [The Myth of Natural Speech](myths-and-facts/the-myth-of-natural-speech.md)
+* [The Myth of the IPA](myths-and-facts/the-myth-of-the-ipa/README.md)
+  * [Improving upon CUBE](myths-and-facts/the-myth-of-the-ipa/improving-upon-cube.md)

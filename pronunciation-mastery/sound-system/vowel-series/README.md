@@ -1,14 +1,24 @@
 # Vowel series
 
-Here goes the vowel tension charts of vowel sets that I recently derived.
-
-Show diphthongs connected to each vowel set?
+Here is the vowel tension charts of vowel sets that I recently derived.
 
 _Source document:_ [_Vowel Tension Paths (Google Docs)_](https://docs.google.com/document/d/1atSuKSG4cAl6x0JpugImdtxibct3ibYmSMy5KaYWUDs)&#x20;
 
+{% hint style="danger" %}
+This is my second Vowel Model hypothesis, which has problems. View the others via the buttons below.
+{% endhint %}
 
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td>Vowel Model v1</td><td><a href="vowel-model-v1.md">vowel-model-v1.md</a></td></tr><tr><td>Vowel Model v2 (this page)</td><td><a href="vowel-model-v2.md">vowel-model-v2.md</a></td></tr><tr><td>Vowel Model v3 <em>(latest)</em></td><td><a href="vowel-model-v2.md">vowel-model-v2.md</a></td></tr></tbody></table>
 
-## A series: aɪ – ɑː – ʌ – ə&#x20;
+## Vowel Model version 2
+
+{% hint style="danger" %}
+This is my second Vowel Model hypothesis, which has problems. View the others via the buttons above.
+
+[vowel-model-v3.md](vowel-model-v3.md "mention") is currently the most stable and symmetrical.
+{% endhint %}
+
+## A series: aɪ – ɑː – ʌ – ə
 
 {% hint style="info" %}
 This is A like in star, far, bar, car.
@@ -27,7 +37,7 @@ Rhotic: ɑj – ɑɹ – ʌ – ə
 * /ɑː/ is tense & long
 * /ʌ/ is relaxed & short
 
-<figure><img src="../.gitbook/assets/Vowel tension paths - A series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Vowel tension paths - A series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
 
 <table data-header-hidden><thead><tr><th width="105"></th><th width="70"></th><th width="122"></th><th width="140"></th><th width="49"></th></tr></thead><tbody><tr><td>Standard</td><td>aɪ</td><td>a</td><td>ʌ</td><td>ə</td></tr><tr><td>CUBE</td><td>ɑj</td><td>ɑː</td><td>ʌ</td><td>ə</td></tr><tr><td>Rhotic</td><td>ɑj</td><td>ɑɹ</td><td>ʌ</td><td>ə</td></tr><tr><td><em>difference</em></td><td><em>glide</em></td><td><em>tense, longer</em></td><td><em>relaxed, shorter</em></td><td></td></tr><tr><td>example</td><td>kite</td><td>cart</td><td>cut</td><td></td></tr></tbody></table>
 
@@ -52,13 +62,15 @@ Rhotic: ɛj – ɛɚ – ɛ – ə
 * /ɛə/ is tense & long
 * /ɛ/ is relaxed & short
 
+Note that there is a characteristic difference here between the British Englishes and the American Englishes: the diphthong **/ɛə/** is a **closing diphthong in British English**, while it’s an **opening diphthong /eə/ in American English**.
+
 #### Real speech:
+
+Many accents simplify the /ɛə/ diphthong into a simple long vowel, /ɛː/ or /eː/. In a Rhotic accent, this may manifest as /ɛ˞ ː/ or /e˞ ː/. This is the same effect as with /ɪə/ becoming long, /ɪː/ (see Diphthongs).
 
 bait /bɛjt/ – bear /bɛː/ – bed /bɛd/
 
-Note that there is a characteristic difference here between the British Englishes and the American Englishes: the diphthong /ɛə/ is a closing diphthong in British, while it’s an opening diphthong /eə/ in American.
-
-<figure><img src="../.gitbook/assets/Vowel tension paths - E series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Vowel tension paths - E series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
 
 <table data-header-hidden><thead><tr><th width="104"></th><th width="97"></th><th width="76"></th><th width="127"></th><th width="151"></th><th width="68"></th></tr></thead><tbody><tr><td>standard</td><td></td><td>ɛɪ</td><td>ɛə/eə</td><td>ɛ</td><td>ə/ɚ</td></tr><tr><td>modern</td><td>stressed</td><td>ɛj</td><td>ɛə</td><td>ɛ</td><td>ə/ɚ</td></tr><tr><td></td><td>strong</td><td>ɛj</td><td>ɛː</td><td>ɛ</td><td>ə/ɚ</td></tr><tr><td></td><td>weak</td><td>ej</td><td>eː</td><td>e</td><td>ə/ɚ</td></tr><tr><td><em>difference</em></td><td></td><td><em>glide</em></td><td><em>tense, longer</em></td><td><em>relaxed, shorter</em></td><td></td></tr><tr><td>example</td><td></td><td>they</td><td>there</td><td>then</td><td></td></tr></tbody></table>
 
@@ -79,7 +91,7 @@ CUBE: ɪj – ɪ – ə
 * /ɪj/ is tense & long
 * /ɪ/ is relaxed & short
 
-<figure><img src="../.gitbook/assets/Vowel tension paths - i series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Vowel tension paths - i series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
 
 <table data-header-hidden><thead><tr><th width="103"></th><th width="123"></th><th width="142"></th><th width="41"></th></tr></thead><tbody><tr><td>standard</td><td>iː</td><td>ɪ</td><td>ə</td></tr><tr><td>modern</td><td>ɪj</td><td>ɪ</td><td>ə</td></tr><tr><td><em>difference</em></td><td><em>tense, longer</em></td><td><em>relaxed, shorter</em></td><td></td></tr><tr><td>example</td><td>seat</td><td>sit</td><td></td></tr></tbody></table>
 
@@ -104,7 +116,7 @@ Rhotic: oj – oɹ – ɔ – ə
 * /oː/ is tense & long
 * /ɔ/ is relaxed & short
 
-<figure><img src="../.gitbook/assets/Vowel tension paths - O series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Vowel tension paths - O series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
 
 <table data-header-hidden><thead><tr><th width="108"></th><th width="62"></th><th width="127"></th><th width="142"></th><th width="61"></th></tr></thead><tbody><tr><td>standard</td><td>ɔɪ</td><td>ɔː</td><td>ɒ</td><td>ə</td></tr><tr><td>modern</td><td>oj</td><td>oː</td><td>ɔ</td><td>ə</td></tr><tr><td><em>difference</em></td><td><em>glide</em></td><td><em>tense, longer</em></td><td><em>relaxed, shorter</em></td><td></td></tr><tr><td>example</td><td>boy</td><td>bought</td><td>robot</td><td></td></tr></tbody></table>
 
@@ -143,7 +155,7 @@ Better: ɵʉ – ɵ – ə
 
 * pure, cure, injure, jury, adventure, sure
 
-<figure><img src="../.gitbook/assets/Vowel tension paths - U series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Vowel tension paths - U series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
 
 <table data-header-hidden><thead><tr><th width="106"></th><th width="129"></th><th width="147"></th><th width="55"></th></tr></thead><tbody><tr><td>standard</td><td>uː</td><td>ʊ</td><td>ə</td></tr><tr><td>modern</td><td>uw</td><td>ɵ</td><td>ə</td></tr><tr><td><em>difference</em></td><td><em>tense, longer</em></td><td><em>relaxed, shorter</em></td><td></td></tr><tr><td>example</td><td>food</td><td>good</td><td></td></tr></tbody></table>
 
@@ -168,7 +180,7 @@ In summary these vowels may not really bear a true relationship. However, all th
 | ------------- | ------------------- | ---------------------------------------------------- |
 | sat /sat/     | certain /ˈsɜː.tʰən/ | <p>a: about /əˈbaʉt/</p><p>er: hunger /ˈhʌŋ.ɡə/ </p> |
 
-<figure><img src="../.gitbook/assets/Vowel tension paths - ER series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Vowel tension paths - ER series - PlainSVG.svg" alt=""><figcaption></figcaption></figure>
 
 <table data-header-hidden><thead><tr><th width="101"></th><th width="75"></th><th width="128"></th><th width="123"></th><th width="178"></th></tr></thead><tbody><tr><td>standard</td><td>aʊ</td><td>æ</td><td>ɜː</td><td>ə</td></tr><tr><td>modern</td><td>aw</td><td>a</td><td>ɜː</td><td>ə</td></tr><tr><td><em>difference</em></td><td><em>glide</em></td><td><em>tense, shorter</em></td><td><em>tense, longer</em></td><td></td></tr><tr><td>example</td><td>sound</td><td>sat</td><td>certain</td><td><p>a: about /əˈbaʉt/</p><p>er: hunger /ˈhʌŋ.ɡə/ </p></td></tr></tbody></table>
 

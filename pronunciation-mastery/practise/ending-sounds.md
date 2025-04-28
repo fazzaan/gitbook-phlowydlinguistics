@@ -34,7 +34,7 @@ Below, you can see or access two large documents that I've been working on, prim
 
 {% embed url="https://docs.google.com/spreadsheets/d/1QvX6GpiJmwsHBz1RVgRvm_CLA4HnbCsSGaCrtJOwbzY" %}
 
-<figure><picture><source srcset="../.gitbook/assets/image_2025-03-15_095428055.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image.png" alt=""></picture><figcaption><p>View <a href="https://docs.google.com/spreadsheets/d/1QvX6GpiJmwsHBz1RVgRvm_CLA4HnbCsSGaCrtJOwbzY/edit?gid=913030486#gid=913030486">Terminology, Ending sounds, Minimal pairs etc</a> on Google Sheets </p></figcaption></figure>
+<figure><picture><source srcset="../.gitbook/assets/image_2025-03-15_095428055.png" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/image (1).png" alt=""></picture><figcaption><p>View <a href="https://docs.google.com/spreadsheets/d/1QvX6GpiJmwsHBz1RVgRvm_CLA4HnbCsSGaCrtJOwbzY/edit?gid=913030486#gid=913030486">Terminology, Ending sounds, Minimal pairs etc</a> on Google Sheets </p></figcaption></figure>
 
 #### Minimal pairs sets
 
