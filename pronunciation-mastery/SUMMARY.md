@@ -21,6 +21,15 @@
 * [Types of phonemes](the-ipa/types-of-phonemes/README.md)
   * [Vowels](the-ipa/types-of-phonemes/vowels.md)
 
+## Sound System
+
+* [System of Sounds](sound-system/system-of-sounds.md)
+* [Voice timing graphs](sound-system/voice-timing-graphs.md)
+* [Sound Relationships](sound-system/sound-relationships.md)
+* [Vowel series](sound-system/vowel-series.md)
+* [Diphthong series](sound-system/diphthong-series.md)
+* [Consonant series](sound-system/consonant-series.md)
+
 ## Practise
 
 * [Solo Phonemes](practise/solo-phonemes.md)
