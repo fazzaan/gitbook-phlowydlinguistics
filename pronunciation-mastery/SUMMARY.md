@@ -51,3 +51,7 @@
 * [The Myth of Natural Speech](myths-and-facts/the-myth-of-natural-speech.md)
 * [The Myth of the IPA](myths-and-facts/the-myth-of-the-ipa/README.md)
   * [Improving upon CUBE](myths-and-facts/the-myth-of-the-ipa/improving-upon-cube.md)
+
+## Author Resources
+
+* [Some resources](author-resources/some-resources.md)
