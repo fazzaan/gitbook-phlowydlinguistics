@@ -8,6 +8,8 @@ This _Vowel Model v2_ is the one currently on the main [.](./ "mention") page.
 Vowel Model v1 is the model that I am currently using to teach English pronunciation.
 {% endhint %}
 
+
+
 <table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Vowel Model v1</td><td><a href="vowel-model-v1.md">vowel-model-v1.md</a></td></tr><tr><td>Vowel Model v2</td><td><a href="vowel-model-v2.md">vowel-model-v2.md</a></td></tr><tr><td>Vowel Model v3 <em>(latest)</em></td><td><a href="vowel-model-v3.md">vowel-model-v3.md</a></td></tr></tbody></table>
 
 
@@ -32,7 +34,7 @@ View the others via the buttons above.
 
 ## Vowel class table
 
-<table><thead><tr><th width="206.09088134765625">class</th><th width="115">glide vowel</th><th width="115">rhotic vowel</th><th width="132">checked vowel</th></tr></thead><tbody><tr><td><a data-mention href="vowel-model-v2.md#a-series-a">#a-series-a</a></td><td>ɑj</td><td>ɑɹ</td><td>ʌ</td></tr><tr><td>E</td><td>ɛj</td><td>ɛɹ</td><td>ɛ</td></tr><tr><td>I</td><td>ɪj</td><td>ɪɹ</td><td>ɪ</td></tr><tr><td>O</td><td>oj</td><td>oɹ</td><td>ɔ</td></tr><tr><td>U</td><td>ɵʉ</td><td>ɵɹ</td><td>ɵ</td></tr><tr><td>Ə</td><td>aʉ</td><td>ɜɹ</td><td>a</td></tr></tbody></table>
+<table><thead><tr><th width="206.09088134765625">class</th><th width="115">glide vowel</th><th width="115">rhotic vowel</th><th width="132">checked vowel</th></tr></thead><tbody><tr><td><a data-mention href="vowel-model-v2.md#a-series-a">#a-series-a</a></td><td>ɑj</td><td>ɑɹ</td><td>ʌ</td></tr><tr><td><a data-mention href="vowel-model-v2.md#e-series-e-e-e">#e-series-e-e-e</a></td><td>ɛj</td><td>ɛɹ</td><td>ɛ</td></tr><tr><td><a data-mention href="vowel-model-v2.md#i-series-i">#i-series-i</a></td><td>ɪj</td><td>ɪɹ</td><td>ɪ</td></tr><tr><td><a data-mention href="vowel-model-v2.md#o-series">#o-series</a></td><td>oj</td><td>oɹ</td><td>ɔ</td></tr><tr><td><a data-mention href="vowel-model-v2.md#u-series-u">#u-series-u</a></td><td>ɵʉ</td><td>ɵɹ</td><td>ɵ</td></tr><tr><td><a data-mention href="vowel-model-v2.md#series-a-a">#series-a-a</a></td><td>aʉ</td><td>ɜɹ</td><td>a</td></tr></tbody></table>
 
 
 
@@ -40,6 +42,10 @@ View the others via the buttons above.
 
 * The rhotic pattern is used primarily. This can be parsed into your own accent easily:
   * /ɹ/ mutates to /ɚ/, /ə/ or an elongated base vowel, e.g. /ɛɹ/ → /ɛː/.
+
+
+
+***
 
 
 
