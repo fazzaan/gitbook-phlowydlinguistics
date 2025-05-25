@@ -279,13 +279,13 @@ In summary these vowels may not really bear a true relationship. However, all th
 
 
 
-## RECONSIDERATION MOMENT
+## Reconsideratioin
 
 if /ɛə/ is a diphthong, then it and its simplification /ɛː/ DON’T belong in the E series.
 
 That leaves the E series with only 1 member!
 
-Ok, visit another page to read my third model hypothesis: asdf&#x20;
+Ok, visit another page to read my third model hypothesis: [vowel-model-v3.md](vowel-model-v3.md "mention")&#x20;
 
 
 
