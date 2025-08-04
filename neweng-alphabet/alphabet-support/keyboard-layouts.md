@@ -60,6 +60,8 @@ The only keyboard layout currently available for NewEng can be downloaded from m
    1. Free to design your own keyboard layouts
    2. Paid version required to be able to import other creators' designs. ([Low cost - view details](https://www.keyboarddesigner.com/index.php?page=32))
    3. Download my keyboard design from my GitHub (out of date; don't use yet!)
+2. HeliBoard — [github site](https://github.com/Helium314/HeliBoard) — [F-Droid store](https://f-droid.org/en/packages/helium314.keyboard/)&#x20;
+   1. HeliBoard is pretty good but I haven't yet made a fully customised layout that suits NewEng.
 
 I haven't yet found another keyboard app that allows me to design my own layout.
 

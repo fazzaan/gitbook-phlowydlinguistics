@@ -3,8 +3,8 @@
 ## Basics of NewEng
 
 * [Alphabet of NewEng](README.md)
-  * [New Letters](basics-of-neweng/readme/new-letters.md)
   * [Full Alphabet](basics-of-neweng/readme/full-alphabet.md)
+  * [New Letters](basics-of-neweng/readme/new-letters.md)
   * [Phonetic Table of Letters](basics-of-neweng/readme/phonetic-table-of-letters.md)
 * [Vision for NewEng](basics-of-neweng/vision-for-neweng.md)
 * [Phases of spelling transition](basics-of-neweng/phases-of-spelling-transition/README.md)
