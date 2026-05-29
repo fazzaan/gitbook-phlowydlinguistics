@@ -178,7 +178,7 @@ la  aɫ &#x20;
 The manifestation of Light or Dark L is entirely natural, dependent on the L's position within a syllable and vowels and consonants, so the English alphabet doesn't need to distinguish them. However, many languages do not have Dark L, so English learners struggle to pronounce it, and usually pronounce Light L very carefully in positions that native English speakers would really struggle to do!
 
 {% hint style="info" %}
-You can learn more about Dark L in the [Broken link](broken-reference "mention") section.
+You can learn more about Dark L in the [Broken link](/broken/pages/euJ72Me43j3XpHi9MotK "mention") section.
 {% endhint %}
 
 Other languages feature more laterals than just L.&#x20;
