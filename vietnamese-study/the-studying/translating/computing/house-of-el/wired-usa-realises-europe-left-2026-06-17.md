@@ -60,16 +60,16 @@ The piece documents dozens of confirmed instances of European governments, compa
 {% endcolumn %}
 
 {% column %}
-Bài viết này ghi lại hàng chục trường hợp được xác nhận&#x20;
+Bài viết này ghi lại hàng chục trường hợp được xác nhận về những chính phủ, công ty, trường đại học và tổ chức phi chính phủ châu Âu chuyển từ các nền tảng công nghệ của Hoà Ky sang những giảy pháp thay thế mã nguồn mở hay của châu Âu.&#x20;
 {% endcolumn %}
 {% endcolumns %}
 
 {% tabs %}
 {% tab title="Vocabulary" %}
-<table><thead><tr><th valign="top">English</th><th valign="top">Vietnamese</th><th valign="top">Notes</th></tr></thead><tbody><tr><td valign="top">to document</td><td valign="top">ghi lại </td><td valign="top">lit. <em>re-record</em> </td></tr><tr><td valign="top">dozens </td><td valign="top">hàng chục </td><td valign="top">lit. <em>rows of tens</em> </td></tr><tr><td valign="top">instance, case </td><td valign="top">trường hợp </td><td valign="top"></td></tr><tr><td valign="top">confirm </td><td valign="top">xác nhận </td><td valign="top"><p><em>nhận</em> does a lot of work in a lot of words!</p><p>nhận ra </p><p>nhận được </p><p>chấp nhận  </p></td></tr></tbody></table>
+<table><thead><tr><th valign="top">English</th><th valign="top">Vietnamese</th><th valign="top">Notes</th></tr></thead><tbody><tr><td valign="top">to document</td><td valign="top">ghi lại </td><td valign="top">lit. <em>re-record</em> </td></tr><tr><td valign="top">dozens </td><td valign="top">hàng chục </td><td valign="top">lit. <em>rows of tens</em> </td></tr><tr><td valign="top">instance, case </td><td valign="top">trường hợp </td><td valign="top"></td></tr><tr><td valign="top">confirm </td><td valign="top">xác nhận </td><td valign="top"><p><em>nhận</em> does a lot of work in a lot of words!</p><p>nhận ra </p><p>nhận được </p><p>chấp nhận  </p></td></tr><tr><td valign="top">transition to, shift to </td><td valign="top">sang </td><td valign="top">like <em>transfer</em>, <em>transition</em> </td></tr><tr><td valign="top">alternative </td><td valign="top">thay thế </td><td valign="top">thay vi, thay đổi </td></tr></tbody></table>
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Grammar " %}
 #### Adjectives as passive verbs
 
 If a noun has a passive verb used as its adjective, the adjectival phrase goes after the noun:&#x20;
