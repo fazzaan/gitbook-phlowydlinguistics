@@ -26,3 +26,13 @@
   * [Part-of-Speech modifier](resources/grammatical-particles/part-of-speech-modifier.md)
   * [Tense particles](resources/grammatical-particles/tense-particles.md)
   * [Classifiers](resources/grammatical-particles/classifiers.md)
+
+## The Studying
+
+* [Communication](the-studying/communication/README.md)
+  * [Daily life](the-studying/communication/daily-life/README.md)
+    * [Hair cut](the-studying/communication/daily-life/hair-cut.md)
+* [Translating](the-studying/translating/README.md)
+  * [Computing](the-studying/translating/computing/README.md)
+    * [House of El](the-studying/translating/computing/house-of-el/README.md)
+      * [WIRED - USA Realises Europe Left (2026-06-17)](the-studying/translating/computing/house-of-el/wired-usa-realises-europe-left-2026-06-17.md)
