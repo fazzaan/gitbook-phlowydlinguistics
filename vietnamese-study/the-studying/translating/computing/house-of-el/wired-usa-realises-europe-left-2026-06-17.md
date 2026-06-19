@@ -26,6 +26,12 @@ Study structure:
 * Source text on the left, my translation on the right
 * New info after each block, including any new vocab, phrases and expressions; and any discussion&#x20;
 
+{% hint style="info" %}
+#### Grammar
+
+In the future, I may copy the grammar blocks to a dedicated section. For now, I have no way to keep them in sync (that is a paid feature of GitBook) so I'd rather not duplicate them across pages and then have them out of sync.
+{% endhint %}
+
 Source video, by [House of El on YouTube](https://www.youtube.com/@HouseofEl):&#x20;
 
 [BRUTAL Wake-Up Call: USA Realizes Europe Left - WIRED: "Widespread, Growing, Tip of Iceberg"](https://www.youtube.com/watch?v=KQ2ndCqRJDM) &#x20;
@@ -138,9 +144,36 @@ Bài báo mô tả xu hướng như "lan rộng và ngày càng tăng", và gọ
 
 <summary>Vocabulary</summary>
 
-<table><thead><tr><th valign="top">English</th><th width="228" valign="top">Vietnamese</th><th valign="top">Notes</th></tr></thead><tbody><tr><td valign="top">describe </td><td valign="top">mô tả </td><td valign="top">distinct from <em>diễn tả</em> which is more like <em>express</em> </td></tr><tr><td valign="top">trend </td><td valign="top">xu hướng </td><td valign="top"><em>hướng</em> is <em>direction</em>; also in <em>hướng dẫn</em>, <em>phương hướng</em>; and used as a classifier for cardinal directions </td></tr><tr><td valign="top">widespread </td><td valign="top">lan rộng </td><td valign="top"><em>phổ biến</em> is more like <em>popular</em> but here we mean more that it is occurring everywhere </td></tr><tr><td valign="top">tip (visible part) </td><td valign="top">phần nổi </td><td valign="top">lit. part that stands out; nổi (floating), nổi tiếng (famous), nổi bật (outstanding) </td></tr><tr><td valign="top">iceberg </td><td valign="top">tảng băng trôi </td><td valign="top">tảng: slab; băng: ice; trôi: drifting, floating along </td></tr><tr><td valign="top">former </td><td valign="top">cựu (<a href="https://en.wiktionary.org/wiki/%E8%88%8A">舊</a>) </td><td valign="top"><p>unsure why this adjective is placed before nouns. <a data-footnote-ref href="#user-content-fn-1">Maybe it is a classifier?</a> </p><p>CN: jiù, ㄐㄧㄡˋ , Cantonese: gau6 : <em>"old", "former", "past"</em> </p><p>JP: ぐ, きゅう : "<em>old"</em> </p><p>KO: 구 : "<em>former"</em> </p></td></tr><tr><td valign="top">member </td><td valign="top">thành viên </td><td valign="top">viên is a common word part: nhân viên, sinh viên </td></tr><tr><td valign="top">parliament </td><td valign="top">nghị viện </td><td valign="top">distinct from <em>quốc hội</em>, "<em>congress"</em> </td></tr><tr><td valign="top">resident </td><td valign="top">thường trú </td><td valign="top"></td></tr><tr><td valign="top">graduate, fellow </td><td valign="top">nghiên cứu sinh </td><td valign="top">note <em>nghi<strong>ê</strong>n</em> not <em>nghi<strong>ệ</strong>n</em> </td></tr><tr><td valign="top">policy </td><td valign="top">chính sách </td><td valign="top">chính: <em>main</em>, primary. sách: <em>book</em>, used in several compound words </td></tr><tr><td valign="top">cyber-security </td><td valign="top">an ninh mạng </td><td valign="top">lit. <em>network security</em>; "cybernetics" (control theory): <em>Điều khiển học</em> </td></tr><tr><td valign="top">to quote </td><td valign="top">trích dẫn </td><td valign="top"><p>Study on <strong>dẫn</strong>: </p><p>root: <a href="https://en.wiktionary.org/wiki/%E5%BC%95">引</a>, essentially "tract" of <em><strong>tract</strong>ion, <strong>tract</strong>or, con<strong>tráct</strong>, at<strong>tract</strong>, dis<strong>tract</strong></em> </p><p>CN: yǐn, Cantonese: jan5; <em>"pull", "stretch", "lead", "attract"</em> </p><p>JP: いん, <em>"pull", "tug", "admit"</em> </p><p>KO: 인 , <em>"pull"</em> </p><p>Hence, makes sense with <em>hướng dẫn</em>, direction puller = guide </p></td></tr><tr><td valign="top">aggressive </td><td valign="top">hung hăng </td><td valign="top"></td></tr><tr><td valign="top">an administration body </td><td valign="top">chính quyền </td><td valign="top"></td></tr><tr><td valign="top">to aim </td><td valign="top">nhằm (vào?)</td><td valign="top"></td></tr><tr><td valign="top">to attack </td><td valign="top">tấn công </td><td valign="top"></td></tr><tr><td valign="top">to lead </td><td valign="top">dẫn </td><td valign="top">This fits with the above study on the meaning of <em>dẫn</em>. </td></tr><tr><td valign="top">warning, wake-up call </td><td valign="top">(lời) cảnh tỉnh </td><td valign="top"></td></tr></tbody></table>
+<table><thead><tr><th valign="top">English</th><th valign="top">Vietnamese</th><th valign="top">Notes</th></tr></thead><tbody><tr><td valign="top">describe </td><td valign="top">mô tả </td><td valign="top">distinct from <em>diễn tả</em> which is more like <em>express</em> </td></tr><tr><td valign="top">trend </td><td valign="top">xu hướng </td><td valign="top"><em>hướng</em> is <em>direction</em>; also in <a data-footnote-ref href="#user-content-fn-1"><em>hướng dẫn</em></a>, <em>phương hướng</em>; and used as a classifier for cardinal directions </td></tr><tr><td valign="top">widespread </td><td valign="top">lan rộng </td><td valign="top"><em>phổ biến</em> is more like <em>popular</em> but here we mean more that it is occurring everywhere </td></tr><tr><td valign="top">tip (visible part) </td><td valign="top">phần nổi </td><td valign="top">lit. part that stands out; nổi (floating), nổi tiếng (famous), nổi bật (outstanding) </td></tr><tr><td valign="top">iceberg </td><td valign="top">tảng băng trôi </td><td valign="top">tảng: slab; băng: ice; trôi: drifting, floating along </td></tr><tr><td valign="top">former </td><td valign="top">cựu (<a href="https://en.wiktionary.org/wiki/%E8%88%8A">舊</a>) </td><td valign="top"><p>unsure why this adjective is placed before nouns. <a data-footnote-ref href="#user-content-fn-2">Maybe it is a classifier?</a> </p><p>CN: jiù, ㄐㄧㄡˋ , Cantonese: gau6 : <em>"old", "former", "past"</em> </p><p>JP: ぐ, きゅう : "<em>old"</em> </p><p>KO: 구 : "<em>former"</em> </p></td></tr><tr><td valign="top">member </td><td valign="top">thành viên </td><td valign="top">viên is a common word part: nhân viên, sinh viên </td></tr><tr><td valign="top">parliament </td><td valign="top">nghị viện </td><td valign="top">distinct from <em>quốc hội</em>, "<em>congress"</em> </td></tr><tr><td valign="top">resident </td><td valign="top">thường trú </td><td valign="top"></td></tr><tr><td valign="top">graduate, fellow </td><td valign="top">nghiên cứu sinh </td><td valign="top">note <em>nghi<strong>ê</strong>n</em> not <em>nghi<strong>ệ</strong>n</em> </td></tr><tr><td valign="top">policy </td><td valign="top">chính sách </td><td valign="top">chính: <em>main</em>, primary. sách: <em>book</em>, used in several compound words </td></tr><tr><td valign="top">cyber-security </td><td valign="top">an ninh mạng </td><td valign="top">lit. <em>network security</em>; "cybernetics" (control theory): <em>Điều khiển học</em> </td></tr><tr><td valign="top">to quote </td><td valign="top">trích dẫn </td><td valign="top">See box below, <a href="wired-usa-realises-europe-left-2026-06-17.md#word-study-dan"><em>Word study: <strong>dẫn</strong></em></a> </td></tr><tr><td valign="top">aggressive </td><td valign="top">hung hăng </td><td valign="top"></td></tr><tr><td valign="top">an administration body </td><td valign="top">chính quyền </td><td valign="top"></td></tr><tr><td valign="top">to aim </td><td valign="top">nhằm (vào?)</td><td valign="top"></td></tr><tr><td valign="top">to attack </td><td valign="top">tấn công </td><td valign="top"></td></tr><tr><td valign="top">to lead </td><td valign="top">dẫn </td><td valign="top">See box below, <a href="wired-usa-realises-europe-left-2026-06-17.md#word-study-dan"><em>Word study: <strong>dẫn</strong></em></a> </td></tr><tr><td valign="top">warning, wake-up call </td><td valign="top">(lời) cảnh tỉnh </td><td valign="top"></td></tr></tbody></table>
 
+</details>
 
+<details>
+
+<summary>Word study: dẫn </summary>
+
+Study on **dẫn**:&#x20;
+
+root: [引](https://en.wiktionary.org/wiki/%E5%BC%95),&#x20;
+
+essentially "tract" of _**tract**ion, **tract**or, con**tráct**, at**tract**, dis**tract**_&#x20;
+
+* CN: yǐn, _"pull", "stretch", "lead", "attract"_
+* Cantonese: jan5&#x20;
+* JP: いん, _"pull", "tug", "admit"_&#x20;
+* KO: 인 , _"pull"_&#x20;
+
+Hence, makes sense with _hướng dẫn_, direction puller = guide&#x20;
+
+_hướng dẫn_ — travel guide&#x20;
+
+_phương hướng_ — direction&#x20;
+
+and seems to be used as a classifier for cardinal directions&#x20;
+
+{% hint style="success" %}
+**dẫn — to lead**&#x20;
+{% endhint %}
 
 </details>
 {% endcolumn %}
@@ -150,19 +183,92 @@ Bài báo mô tả xu hướng như "lan rộng và ngày càng tăng", và gọ
 {% endcolumn %}
 {% endcolumns %}
 
-
-
 {% columns %}
 {% column %}
 If you've been watching this channel for the past several months, none of this is new to you. We have covered every single one of these developments in real time as they happened. But the fact that an American publication is now compiling the evidence into a single timeline means that the thesis this channel has been building video by video, source by source, week by week, is breaking through into mainstream technology media in the US. The world is catching up.&#x20;
 {% endcolumn %}
 
 {% column %}
-
+Nếu bạn đã theo dõi kênh này trong vài tháng qua, thì những điều này không có gì mới mẻ đối với bạn. Chúng tôi đã tưởng thuật trực tiếp từng tin tức này ngay khi chúng xảy ra.&#x20;
 {% endcolumn %}
 {% endcolumns %}
 
+{% columns %}
+{% column width="91.66666666666666%" %}
+<details>
 
+<summary>Vocabulary</summary>
+
+<table><thead><tr><th valign="top">English</th><th valign="top">Vietnamese</th><th valign="top">Notes</th></tr></thead><tbody><tr><td valign="top">channel </td><td valign="top">dõi kênh </td><td valign="top"></td></tr><tr><td valign="top">new — <em>redup.</em> </td><td valign="top">mới mẻ </td><td valign="top">-e reduplication suffix. (<strong>từ láy</strong>) </td></tr><tr><td valign="top">to cover, to report </td><td valign="top">đưa tin</td><td valign="top">I think tường thuật means to report with more detail. </td></tr><tr><td valign="top">to recount </td><td valign="top">tường thuật </td><td valign="top"></td></tr><tr><td valign="top">as soon as, <em>"in realtime"</em> </td><td valign="top">ngay khi </td><td valign="top"></td></tr></tbody></table>
+
+</details>
+
+<details>
+
+<summary>Grammar — for/in time period</summary>
+
+"\[verb] <mark style="color:yellow;">for</mark> the <mark style="color:green;">pas</mark><mark style="color:green;">**t**</mark> <mark style="color:orange;">few</mark> <mark style="color:blue;">months</mark>"&#x20;
+
+"\[động từ] <mark style="color:yellow;">trong</mark> <mark style="color:orange;">vài</mark> <mark style="color:blue;">tháng</mark> <mark style="color:green;">qu</mark><mark style="color:green;">**a**</mark>"&#x20;
+
+"\[verb] <mark style="color:yellow;">**in**</mark> <mark style="color:orange;">few</mark> <mark style="color:blue;">months</mark> <mark style="color:green;">pass</mark><mark style="color:green;">**ed**</mark>"&#x20;
+
+_interesting note:_&#x20;
+
+* the past = quá khứ&#x20;
+* to pass = qua&#x20;
+
+</details>
+
+<details>
+
+<summary>Grammar — đối với — marks the subject of the topic</summary>
+
+Fundamentally, seems to be _according to_, _relative to_.&#x20;
+
+From this sense, it is used to mark that the next thing mentioned is the subject which the current topic is discussing.&#x20;
+
+From the [Vietnamese Wiktionary page on đối với](https://vi.wiktionary.org/wiki/%C4%91%E1%BB%91i_v%E1%BB%9Bi),&#x20;
+
+> Tổ hợp biểu thị người hoặc sự vật, sự việc sắp nêu ra là đối tượng hoặc phạm vi của điều được nói đến.
+>
+> _The combination indicates that the person, thing, or event about to be mentioned is the subject or scope of what is being discussed._ \[Google Translate]&#x20;
+
+and&#x20;
+
+> Tổ hợp biểu thị người sắp nêu ra là đối tượng có quan hệ trực tiếp với điều được nói đến.&#x20;
+>
+> _The phrase indicates that the person about to be mentioned is the subject directly related to what is being discussed._ \[Google Translate]&#x20;
+
+Read examples on [Glosbe](https://glosbe.com/vi/en/%C4%91%E1%BB%91i%20v%E1%BB%9Bi).&#x20;
+
+</details>
+
+<details>
+
+<summary>Grammar — từng — each and every one of a set </summary>
+
+It seems as if từng can be used in place of các, những, mọi and mỗi.
+
+</details>
+
+<details>
+
+<summary>Sentence structure — adverb and time adverb phrase</summary>
+
+We <mark style="color:$info;">have</mark> <mark style="color:orange;">cover</mark><mark style="color:$info;">ed</mark> <mark style="color:violet;">every single one of</mark> <mark style="color:yellow;">these</mark> <mark style="color:green;">developments</mark> <mark style="color:cyan;">in real time</mark> <mark style="color:red;">as</mark> they happen<mark style="color:$info;">ed</mark>.&#x20;
+
+Chúng tôi <mark style="color:$info;">đã</mark> <mark style="color:orange;">tưởng thuật</mark> <mark style="color:cyan;">trực tiếp</mark> <mark style="color:violet;">từng</mark> <mark style="color:green;">tin tức</mark> <mark style="color:yellow;">này</mark> <mark style="color:red;">ngay khi</mark> chúng xảy ra.&#x20;
+
+We <mark style="color:$info;">did</mark> <mark style="color:orange;">recount</mark> <mark style="color:cyan;">continuously</mark> <mark style="color:violet;">every</mark> <mark style="color:green;">news</mark> <mark style="color:yellow;">these</mark> <mark style="color:red;">as soon as</mark> they happen.&#x20;
+
+</details>
+{% endcolumn %}
+
+{% column width="8.333333333333343%" %}
+&#x20;
+{% endcolumn %}
+{% endcolumns %}
 
 
 
@@ -480,4 +586,6 @@ That's the video that I would watch next. Thanks so much for watching this one. 
 
 #### "
 
-[^1]: apparently that is what it is&#x20;
+[^1]: See box below, [_Word study: **dẫn**_](wired-usa-realises-europe-left-2026-06-17.md#word-study-dan)&#x20;
+
+[^2]: apparently that is what it is&#x20;
