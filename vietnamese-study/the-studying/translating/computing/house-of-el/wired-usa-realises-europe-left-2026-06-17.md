@@ -32,7 +32,7 @@ Source video, by [House of El on YouTube](https://www.youtube.com/@HouseofEl):&#
 
 {% columns %}
 {% column %}
-#### English
+#### English - El's speech from the video
 {% endcolumn %}
 
 {% column %}
@@ -48,28 +48,50 @@ Something very interesting is happening. _Wired_, one of the most influential te
 {% endcolumn %}
 
 {% column %}
-Một điều gì thú vị quá đang xảy ra. _Wired_, một trong số tạp chí công nghệ có ảnh hưởng nhất trên thế giởi, được xuất bản tại San Francisco, chủ yếu được đọc bởi chuyên gia công nghệ Hoa Kỳ và Thung lũng Silicon, đã xuất bản một bài báo rất thú vị có tiêu đề "Tất cả những cách châu Âu đang từ bỏ Công nghệ của Hoa Kỳ".&#x20;
+Một điều gì thú vị quá đang xảy ra. _Wired_, một trong số tạp chí công nghệ có ảnh hưởng nhất trên thế giới, được xuất bản tại San Francisco, chủ yếu được đọc bởi chuyên gia công nghệ Hoa Kỳ và Thung lũng Silicon, đã đăng tải một bài báo rất thú vị có tiêu đề "Tất cả những cách châu Âu đang từ bỏ Công nghệ của Hoa Kỳ".&#x20;
 {% endcolumn %}
 {% endcolumns %}
 
+{% columns %}
+{% column width="91.66666666666666%" %}
+<details>
+
+<summary>Vocabulary</summary>
+
 <table><thead><tr><th valign="top">English</th><th valign="top">Vietnamese</th><th valign="top">Notes</th></tr></thead><tbody><tr><td valign="top"><p>influential</p><p>influence, affect </p></td><td valign="top"><p>có ảnh hưởng</p><p>ảnh hưởng  </p></td><td valign="top">lit. <em>has effect</em><br> </td></tr><tr><td valign="top"><p>publish</p><p>publish (in news) </p></td><td valign="top"><p>xuất bản </p><p>đăng tải (<a href="https://en.wiktionary.org/wiki/%E7%99%BB%E8%BC%89#Vietnamese">登載</a>) </p></td><td valign="top"><p><em>bản</em> is in many words</p><p>CN: dēng zǎi</p><p>JP:  とう さい </p></td></tr><tr><td valign="top">primarily</td><td valign="top">chủ yếu </td><td valign="top"><em>chủ</em> is like <em>main</em> </td></tr><tr><td valign="top">expert, professional </td><td valign="top">chuyên gia </td><td valign="top"></td></tr><tr><td valign="top">title </td><td valign="top">tiêu đề (<a href="https://en.wiktionary.org/wiki/%E6%A8%99%E9%A1%8C#Vietnamese">標題</a>), tựa đề </td><td valign="top"><p><em>đề</em> in <em>chủ đề</em> </p><p>verb: <em><strong>đặt</strong> tiêu đề</em><br>CN: biāo <strong>tí</strong> </p><p>JP: ひょう <strong>だい</strong> </p><p>KO: 표<strong>제</strong> </p></td></tr><tr><td valign="top">abandon, reject, denounce</td><td valign="top">từ bỏ </td><td valign="top"></td></tr></tbody></table>
 
+</details>
+{% endcolumn %}
+
+{% column width="8.333333333333343%" %}
+&#x20;
+{% endcolumn %}
+{% endcolumns %}
+
 {% columns %}
-{% column %}
+{% column width="50%" %}
 The piece documents dozens of confirmed instances of European governments, companies, universities, and NGOs moving away from US technology platforms in favour of open-source or European alternatives.&#x20;
 {% endcolumn %}
 
-{% column %}
+{% column width="50%" %}
 Bài viết này ghi lại hàng chục trường hợp được xác nhận về những chính phủ, công ty, trường đại học và tổ chức phi chính phủ châu Âu chuyển từ các nền tảng công nghệ của Hoà Ky sang những giảy pháp thay thế mã nguồn mở hay của châu Âu.&#x20;
 {% endcolumn %}
 {% endcolumns %}
 
-{% tabs %}
-{% tab title="Vocabulary" %}
-<table><thead><tr><th valign="top">English</th><th valign="top">Vietnamese</th><th valign="top">Notes</th></tr></thead><tbody><tr><td valign="top">to document</td><td valign="top">ghi lại </td><td valign="top">lit. <em>re-record</em> </td></tr><tr><td valign="top">dozens </td><td valign="top">hàng chục </td><td valign="top">lit. <em>rows of tens</em> </td></tr><tr><td valign="top">instance, case </td><td valign="top">trường hợp </td><td valign="top"></td></tr><tr><td valign="top">confirm </td><td valign="top">xác nhận </td><td valign="top"><p><em>nhận</em> does a lot of work in a lot of words!</p><p>nhận ra </p><p>nhận được </p><p>chấp nhận  </p></td></tr><tr><td valign="top">transition to, shift to </td><td valign="top">sang </td><td valign="top">like <em>transfer</em>, <em>transition</em> </td></tr><tr><td valign="top">alternative </td><td valign="top">thay thế </td><td valign="top">thay vi, thay đổi </td></tr></tbody></table>
-{% endtab %}
+{% columns %}
+{% column width="91.66666666666666%" %}
+<details>
 
-{% tab title="Grammar " %}
+<summary>Vocabulary</summary>
+
+<table><thead><tr><th valign="top">English</th><th valign="top">Vietnamese</th><th valign="top">Notes</th></tr></thead><tbody><tr><td valign="top">to document</td><td valign="top">ghi lại </td><td valign="top">lit. <em>re-record</em> </td></tr><tr><td valign="top">dozens </td><td valign="top">hàng chục </td><td valign="top">lit. <em>rows of tens</em> </td></tr><tr><td valign="top">instance, case </td><td valign="top">trường hợp </td><td valign="top"></td></tr><tr><td valign="top">confirm </td><td valign="top">xác nhận </td><td valign="top"><p><em>nhận</em> does a lot of work in a lot of words!</p><p><strong>nhận</strong> ra, <strong>nhận</strong> được, chấp <strong>nhận</strong>  </p></td></tr><tr><td valign="top">transition to, shift to </td><td valign="top">sang </td><td valign="top">like <em>transfer</em>, <em>transition</em> </td></tr><tr><td valign="top">alternative </td><td valign="top">thay thế </td><td valign="top"><strong>thay</strong> vi, <strong>thay</strong> đổi </td></tr><tr><td valign="top">open source (software) </td><td valign="top">mã nguồn mở </td><td valign="top">apparently <em>mã</em> is <em>code</em> </td></tr></tbody></table>
+
+</details>
+
+<details>
+
+<summary>Grammar - Adjectives as passive verbs</summary>
+
 #### Adjectives as passive verbs
 
 If a noun has a passive verb used as its adjective, the adjectival phrase goes after the noun:&#x20;
@@ -91,16 +113,40 @@ _becomes_
 instances (did) be-confirmed about companies moving away from US technologies&#x20;
 
 <mark style="background-color:green;">trường hợp</mark> <mark style="background-color:red;">(đã) được xác nhận</mark> <mark style="background-color:yellow;">về</mark> <mark style="background-color:orange;">**việc**</mark> _<mark style="background-color:blue;">những</mark>_ <mark style="background-color:blue;"></mark><mark style="background-color:blue;">công ty</mark> <mark style="background-color:orange;">chuyển</mark> <mark style="background-color:violet;">từ</mark> <mark style="background-color:$info;">công nghệ</mark> <mark style="background-color:cyan;">Hoà Ky</mark>&#x20;
-{% endtab %}
-{% endtabs %}
+
+</details>
+{% endcolumn %}
+
+{% column width="8.333333333333343%" %}
+&#x20;
+{% endcolumn %}
+{% endcolumns %}
 
 {% columns %}
 {% column %}
-It describes the trend as widespread and growing and calls it likely the tip of the iceberg. Maretta Shack, a former member of the European Parliament and non-resident fellow at Stanford Cyber Policy Center, told Wired, I'm quoting: "The aggressive policies by the Trump administration attacking international law as well as the EU and democratic principles has led to several wakeup calls."&#x20;
+It describes the trend as "widespread and growing", and calls it "likely the tip of the iceberg". Maretta Shack, a former member of the European Parliament and non-resident fellow at Stanford Cyber Policy Center, told Wired, I'm quoting: "The aggressive policies by the Trump administration attacking international law, as well as the EU and democratic principles, has led to several wakeup calls."&#x20;
 {% endcolumn %}
 
 {% column %}
+Bài báo mô tả xu hướng như "lan rộng và ngày càng tăng", và gọi nó "rất có thể đây chỉ là phần nổi của tảng băng trôi". Maretta Shack (_"Ma-re-ta Shac"_), một cựu thành viên của Nghị viện châu Âu và một nghiên cứu sinh không thường trú tại Trung tâm Chính sách An ninh mạng Stanford, nói với Wired, tôi trích dẫn: "Những chính sách hung hăng của chính quyền Trump nhằm tấn công luật pháp quốc tế đã dẫn đến một số lời cảnh tỉnh."&#x20;
+{% endcolumn %}
+{% endcolumns %}
 
+{% columns %}
+{% column width="91.66666666666666%" %}
+<details>
+
+<summary>Vocabulary</summary>
+
+<table><thead><tr><th valign="top">English</th><th width="228" valign="top">Vietnamese</th><th valign="top">Notes</th></tr></thead><tbody><tr><td valign="top">describe </td><td valign="top">mô tả </td><td valign="top">distinct from <em>diễn tả</em> which is more like <em>express</em> </td></tr><tr><td valign="top">trend </td><td valign="top">xu hướng </td><td valign="top"><em>hướng</em> is <em>direction</em>; also in <em>hướng dẫn</em>, <em>phương hướng</em>; and used as a classifier for cardinal directions </td></tr><tr><td valign="top">widespread </td><td valign="top">lan rộng </td><td valign="top"><em>phổ biến</em> is more like <em>popular</em> but here we mean more that it is occurring everywhere </td></tr><tr><td valign="top">tip (visible part) </td><td valign="top">phần nổi </td><td valign="top">lit. part that stands out; nổi (floating), nổi tiếng (famous), nổi bật (outstanding) </td></tr><tr><td valign="top">iceberg </td><td valign="top">tảng băng trôi </td><td valign="top">tảng: slab; băng: ice; trôi: drifting, floating along </td></tr><tr><td valign="top">former </td><td valign="top">cựu (<a href="https://en.wiktionary.org/wiki/%E8%88%8A">舊</a>) </td><td valign="top"><p>unsure why this adjective is placed before nouns. <a data-footnote-ref href="#user-content-fn-1">Maybe it is a classifier?</a> </p><p>CN: jiù, ㄐㄧㄡˋ , Cantonese: gau6 : <em>"old", "former", "past"</em> </p><p>JP: ぐ, きゅう : "<em>old"</em> </p><p>KO: 구 : "<em>former"</em> </p></td></tr><tr><td valign="top">member </td><td valign="top">thành viên </td><td valign="top">viên is a common word part: nhân viên, sinh viên </td></tr><tr><td valign="top">parliament </td><td valign="top">nghị viện </td><td valign="top">distinct from <em>quốc hội</em>, "<em>congress"</em> </td></tr><tr><td valign="top">resident </td><td valign="top">thường trú </td><td valign="top"></td></tr><tr><td valign="top">graduate, fellow </td><td valign="top">nghiên cứu sinh </td><td valign="top">note <em>nghi<strong>ê</strong>n</em> not <em>nghi<strong>ệ</strong>n</em> </td></tr><tr><td valign="top">policy </td><td valign="top">chính sách </td><td valign="top">chính: <em>main</em>, primary. sách: <em>book</em>, used in several compound words </td></tr><tr><td valign="top">cyber-security </td><td valign="top">an ninh mạng </td><td valign="top">lit. <em>network security</em>; "cybernetics" (control theory): <em>Điều khiển học</em> </td></tr><tr><td valign="top">to quote </td><td valign="top">trích dẫn </td><td valign="top"><p>Study on <strong>dẫn</strong>: </p><p>root: <a href="https://en.wiktionary.org/wiki/%E5%BC%95">引</a>, essentially "tract" of <em><strong>tract</strong>ion, <strong>tract</strong>or, con<strong>tráct</strong>, at<strong>tract</strong>, dis<strong>tract</strong></em> </p><p>CN: yǐn, Cantonese: jan5; <em>"pull", "stretch", "lead", "attract"</em> </p><p>JP: いん, <em>"pull", "tug", "admit"</em> </p><p>KO: 인 , <em>"pull"</em> </p><p>Hence, makes sense with <em>hướng dẫn</em>, direction puller = guide </p></td></tr><tr><td valign="top">aggressive </td><td valign="top">hung hăng </td><td valign="top"></td></tr><tr><td valign="top">an administration body </td><td valign="top">chính quyền </td><td valign="top"></td></tr><tr><td valign="top">to aim </td><td valign="top">nhằm (vào?)</td><td valign="top"></td></tr><tr><td valign="top">to attack </td><td valign="top">tấn công </td><td valign="top"></td></tr><tr><td valign="top">to lead </td><td valign="top">dẫn </td><td valign="top">This fits with the above study on the meaning of <em>dẫn</em>. </td></tr><tr><td valign="top">warning, wake-up call </td><td valign="top">(lời) cảnh tỉnh </td><td valign="top"></td></tr></tbody></table>
+
+
+
+</details>
+{% endcolumn %}
+
+{% column width="8.333333333333343%" %}
+&#x20;
 {% endcolumn %}
 {% endcolumns %}
 
@@ -433,3 +479,5 @@ That's the video that I would watch next. Thanks so much for watching this one. 
 {% endcolumns %}
 
 #### "
+
+[^1]: apparently that is what it is&#x20;
