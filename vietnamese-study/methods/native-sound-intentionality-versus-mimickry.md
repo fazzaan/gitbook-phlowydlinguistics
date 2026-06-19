@@ -51,4 +51,4 @@ So, to develop a native sound, you must do the same.
 
 This same concept can be applied to grammar, too, but we'll cover that in another section.
 
-(Essentially, speak with the highest grammar available, then relax your grip on the grammar over time. Test what you can get away with while still being understood, and also model yourself after how natives/locals speak.)
+Essentially, speak with the highest grammar available, then relax your grip on the grammar over time. Model yourself after how natives/locals speak, starting from your high grammar, then relax into the way they speak. This is necessary because all the tiny nuances you might miss are encoded in their usage through centuries of natural usage, in which they have pushed the boundaries of their own natural communication and organically settled into a framework that works. If you use your own simplest-as-possible speech & grammar models, you will not be able to notice or internalise the native model.
