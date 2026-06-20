@@ -28,7 +28,7 @@ _My top picks:_
 [similigraphs](resources/similigraphs/)
 {% endcontent-ref %}
 
-{% content-ref url="resources/grammatical-particles/" %}
-[grammatical-particles](resources/grammatical-particles/)
+{% content-ref url="basics/grammatical-particles/" %}
+[grammatical-particles](basics/grammatical-particles/)
 {% endcontent-ref %}
 

@@ -10,6 +10,15 @@
 * [Frequent places](methods/frequent-places.md)
 * [The Usual Suspects (Questions)](methods/the-usual-suspects-questions.md)
 
+## Basics
+
+* [Grammatical particles](basics/grammatical-particles/README.md)
+  * [Part-of-Speech modifier](basics/grammatical-particles/part-of-speech-modifier.md)
+  * [Tense particles](basics/grammatical-particles/tense-particles.md)
+  * [Classifiers](basics/grammatical-particles/classifiers.md)
+* [Question formats](basics/question-formats/README.md)
+  * [Tag questions](basics/question-formats/tag-questions.md)
+
 ## Resources
 
 * [Similigraphs](resources/similigraphs/README.md)
@@ -22,21 +31,17 @@
 * [Important grammar structures](resources/important-grammar-structures.md)
 * [Almost-identical words & phrases](resources/almost-identical-words-and-phrases.md)
 * [Words that are different in Vietnamese](resources/words-that-are-different-in-vietnamese.md)
-* [Grammatical particles](resources/grammatical-particles/README.md)
-  * [Part-of-Speech modifier](resources/grammatical-particles/part-of-speech-modifier.md)
-  * [Tense particles](resources/grammatical-particles/tense-particles.md)
-  * [Classifiers](resources/grammatical-particles/classifiers.md)
 
-## The Studying
+## My Studying <a href="#studying" id="studying"></a>
 
-* [Communication](the-studying/communication/README.md)
-  * [Hair cut](the-studying/communication/hair-cut.md)
-  * [Pharmacy](the-studying/communication/pharmacy.md)
-  * [Shopping](the-studying/communication/shopping.md)
-  * [Post office](the-studying/communication/post-office.md)
-  * [Chatting about language](the-studying/communication/chatting-about-language.md)
-  * [Banter](the-studying/communication/banter.md)
-* [Translating](the-studying/translating/README.md)
-  * [Computing](the-studying/translating/computing/README.md)
-    * [House of El](the-studying/translating/computing/house-of-el/README.md)
-      * [WIRED - USA Realises Europe Left (2026-06-17)](the-studying/translating/computing/house-of-el/wired-usa-realises-europe-left-2026-06-17.md)
+* [Communication](studying/communication/README.md)
+  * [Hair cut](studying/communication/hair-cut.md)
+  * [Pharmacy](studying/communication/pharmacy.md)
+  * [Shopping](studying/communication/shopping.md)
+  * [Post office](studying/communication/post-office.md)
+  * [Chatting about language](studying/communication/chatting-about-language.md)
+  * [Banter](studying/communication/banter.md)
+* [Translating](studying/translating/README.md)
+  * [Computing](studying/translating/computing/README.md)
+    * [House of El](studying/translating/computing/house-of-el/README.md)
+      * [WIRED - USA Realises Europe Left (2026-06-17)](studying/translating/computing/house-of-el/wired-usa-realises-europe-left-2026-06-17.md)
