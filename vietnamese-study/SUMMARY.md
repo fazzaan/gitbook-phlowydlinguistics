@@ -29,9 +29,7 @@
 
 ## The Studying
 
-* [Communication](the-studying/communication/README.md)
-  * [Daily life](the-studying/communication/daily-life/README.md)
-    * [Hair cut](the-studying/communication/daily-life/hair-cut.md)
+* [Communication](the-studying/communication.md)
 * [Translating](the-studying/translating/README.md)
   * [Computing](the-studying/translating/computing/README.md)
     * [House of El](the-studying/translating/computing/house-of-el/README.md)

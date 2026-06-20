@@ -20,8 +20,8 @@ _My top picks:_
 [frequent-places.md](methods/frequent-places.md)
 {% endcontent-ref %}
 
-{% content-ref url="/broken/pages/Iv7a5r4FQZYA1sr93Hs0" %}
-[Broken link](/broken/pages/Iv7a5r4FQZYA1sr93Hs0)
+{% content-ref url="https://app.gitbook.com/s/THXpkCUIk72ucmSJhZRy/resources" %}
+[Resources](https://app.gitbook.com/s/THXpkCUIk72ucmSJhZRy/resources)
 {% endcontent-ref %}
 
 {% content-ref url="resources/similigraphs/" %}
